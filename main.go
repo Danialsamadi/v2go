@@ -711,10 +711,10 @@ func downloadGeoIPDB() error {
 	}
 
 	fmt.Println("Downloading GeoIP database...")
-	// Using a reliable mirror
 	url := "https://raw.githubusercontent.com/6Kmfi6HP/maxmind/main/GeoLite2-Country.mmdb"
 
-	resp, err := http.Get(url)
+	client := &http.Client{Timeout: 30 * time.Second}
+	resp, err := client.Get(url)
 	if err != nil {
 		return err
 	}
