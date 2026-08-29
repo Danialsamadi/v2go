@@ -1,1 +1,0 @@
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Tista8V3I3RtJrMC5QrH_nyHKD9aq8VO8nP1G1NcMHI&security=reality&sid=c50235e741568aa5&sni=www.google.com&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%AE%20LI%20%7C%20VLESS%20%7C%2019

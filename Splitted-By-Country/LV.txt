@@ -1,1 +1,1 @@
-vless://523486c6-c0b5-4e5b-8896-4af2375b41cc@195.123.212.30.blanesik.space:443?&security=tls&fp=qq&sni=195.123.212.30.blanesik.space&type=ws&headerType=none&host=195.123.212.30.blanesik.space&path=%2Fwebsocket%3Fed%3D2560#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20706
+vless://523486c6-c0b5-4e5b-8896-4af2375b41cc@195.123.212.30.blanesik.space:443/?type=ws&encryption=none&flow=&path=%2Fwebsocket%3Fed%3D2560&security=tls&sni=195.123.212.30.blanesik.space&fp=qq#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20652

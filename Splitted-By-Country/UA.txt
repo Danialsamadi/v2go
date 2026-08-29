@@ -1,1 +1,1 @@
-vless://9b3b0478-5fb2-4dc5-ae86-e8f46a7037c7@ukraine-sgood.wopd.butnorwa.butter.silicore.ir:5050?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20796
+vless://bfb66910-f920-42c6-b52a-5f56e1dabcb4@82.118.18.224:443?security=reality&encryption=none&pbk=mx0NhP2x4HYUumJ1r0RV411imRCjKQDfDf5ApSz5cCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=63499b2eceaee61e#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20200
