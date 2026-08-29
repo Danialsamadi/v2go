@@ -1,0 +1,1 @@
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s592.wagahaha.xyz:18443?security=tls&flow=xtls-rprx-vision&sni=u643766ubcccc2bas591.csgfw.top&type=tcp#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20VLESS%20%7C%201259
