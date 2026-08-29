@@ -1,1 +1,0 @@
-vless://cb784d00-d34a-4389-b938-8717f7b28353@81.90.17.164:443?type=tcp&security=reality&sni=yastatic.net&fp=chrome&flow=xtls-rprx-vision&pbk=v0XQn6uvyC8q5CThcRYLer1F1OOYpZDn5NLOvDicaWg&sid=b31c2b75add2e5fa#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%7C%20VLESS%20%7C%20789
