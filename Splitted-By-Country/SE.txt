@@ -1,2 +1,0 @@
-vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?encryption=none&type=raw&security=none&headertype=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20561
-vless://4d7dad8f-4d40-4a1b-a0be-1b6c0520f4b5@90.156.218.236:443?type=grpc&security=reality&encryption=none&sni=360.yandex.ru&fp=firefox&pbk=VaKp9XjMqT7lA4F3b6hpdF6fmsiY4B_hz6MzT6fv938&headerType=none&mode=gun#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20843
