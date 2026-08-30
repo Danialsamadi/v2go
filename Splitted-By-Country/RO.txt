@@ -1,2 +1,0 @@
-vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689?path=/host&security=none&encryption=none&host=www.filimo.com&type=httpupgrade#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20286
-vless://ee9e2135-c444-4adb-aaa5-a0efa1a74fdf@82.117.255.26:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gMcijHp0RNZF6l556BaOxu1bKNIFON0_JjXhJzpioAk&sid=b395baf965957d93&sni=www.cloudflare.com#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20966
