@@ -1,0 +1,1 @@
+vless://09a8591d-aa3d-4958-8fd6-39ead719fa85@185.71.67.81:443?type=ws&security=tls&encryption=none&path=api%2Fv2%2Fstream%2Fhafiz&host=stream.benz.ink&sni=stream.benz.ink&fp=firefox&alpn=http%2F1.1&headerType=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20593
