@@ -1,0 +1,1 @@
+vless://e2b8f727-c5ee-47e1-8f1b-7c5c61479ce0@45.90.56.231:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KrFnWxAwVGL6tuj1JE0qpykLzY4aOFjyK3OaymF_hT0&sid=e2e66f4537770cef&sni=www.cloudflare.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%201009
