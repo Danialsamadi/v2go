@@ -1,1 +1,2 @@
-trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?alpn=h2%2Chttp%2F1.1&fp=chrome&sni=by01.botovod.space&type=grpc#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20BY%20%7C%20TROJAN%20%7C%20500
+trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?alpn=h2,http/1.1&fp=chrome&sni=by01.botovod.space&type=grpc#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20BY%20%7C%20TROJAN%20%7C%20513
+trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@by01.botovod.space:500?alpn=h2,http/1.1&fp=chrome&type=grpc#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20BY%20%7C%20TROJAN%20%7C%20538
