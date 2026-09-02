@@ -1,1 +1,0 @@
-vless://4ff70740-8c80-48ae-985f-2afe4924e908@172.64.155.209:8443?security=tls&type=ws&path=%2Fsync&host=pubb.clnahanpnln.workers.dev&sni=pubb.clnahanpnln.workers.dev&fp=chrome&encryption=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%201336
