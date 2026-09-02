@@ -1,0 +1,1 @@
+vless://8b2075d9-ddf0-428c-bcc6-5bd93cec18e6@193.29.225.249:4443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AE%20SI%20%7C%20VLESS%20%7C%20829
