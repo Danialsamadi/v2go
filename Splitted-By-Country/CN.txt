@@ -1,1 +1,0 @@
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.64.80.1:443?sni=app-538961.user-y0o4gm.workers.dev&allowInsecure=1&type=ws&path=/cmh&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20TROJAN%20%7C%20643
