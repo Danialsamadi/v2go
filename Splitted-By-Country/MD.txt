@@ -1,0 +1,1 @@
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=firefox&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%2069
