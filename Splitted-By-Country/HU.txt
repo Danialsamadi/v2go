@@ -1,2 +1,2 @@
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU%20%7C%20TROJAN%20%7C%20513
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU%20%7C%20TROJAN%20%7C%20514
+trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU%20%7C%20TROJAN%20%7C%20345
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU%20%7C%20TROJAN%20%7C%20346
