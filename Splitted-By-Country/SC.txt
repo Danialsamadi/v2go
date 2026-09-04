@@ -1,2 +1,1 @@
-vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20143
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20213
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20165
