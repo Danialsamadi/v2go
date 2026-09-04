@@ -1,5 +1,4 @@
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=%2F&type=grpc&serviceName=TunService&sni=www.google.com#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%2093
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%2099
-vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20274
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20472
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.109:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=jobinvest.ru#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20866
+vless://339c589d-40ad-44ff-87fb-fcbe59309ba3@82.40.62.197:49949?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20148
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20260
+vless://f349ba75-ce0d-4641-b9e2-854de88b902d@82.40.62.197:15502?type=tcp&encryption=none&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20266
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20437

@@ -1,1 +1,0 @@
-vless://0a2dde28-70da-4863-a06f-35d007d94d35@151.242.2.81:443?encryption=none&host=cf9.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf9.rumedia-cdn.com&type=ws#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%AE%20LI%20%7C%20VLESS%20%7C%2049
