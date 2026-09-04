@@ -1,2 +1,1 @@
-vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?encryption=none&security=none&type=tcp#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%B0%20DK%20%7C%20VLESS%20%7C%20266
-ss://YWVzLTI1Ni1nY206WW5ZdnQwYkYwRjQ3dVQ5dw==@iran-kala.xyz:27112#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%B0%20DK%20%7C%20SS%20%7C%20577
+vless://78685e90-c5fd-4c01-9ff4-a63ea1cdc998@87.58.155.25:443?encryption=none&security=none&type=tcp#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%B0%20DK%20%7C%20VLESS%20%7C%20142
