@@ -1,2 +1,1 @@
-vless://ef4f4c3d-0b16-48ad-a8d8-2d22512b3b36@89.127.196.238:443?security=reality&encryption=none&pbk=-1HCWRKZmpJFJxw0PSzx1EzzGB2sM7ojBNbUGia4pj8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-ch.upd-media.com&sid=b3c1d918e7c4f767#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20165
-vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289/?type=tcp&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20709
+vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289/?type=tcp&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20722
