@@ -1,0 +1,1 @@
+vless://927d9043-2fdf-46f4-87ac-14a9e3f78d57@46.243.142.89:9443?type=xhttp&security=reality&encryption=none&path=%2Fx&host=wl-pl-1.nodes.ac&sni=pl-1.nodes.ac&fp=firefox&pbk=5hhzoP441DrGa2l5YlwizPSA5chdY2VjRP7CiEfLLA0&sid=eea4ab7bddaeea39&headerType=none&mode=stream-one#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20937
