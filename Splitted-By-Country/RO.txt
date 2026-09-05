@@ -1,2 +1,1 @@
-vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689/?type=httpupgrade&encryption=none&flow=&host=www.filimo.com&path=/host#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20733
-vless://aa6f8aaf-d7ff-46f8-a9a0-d143d7e71f71@ro-xh01.tcp-reset-club.net:443?security=reality&type=xhttp&path=%2Fassets%2Fv2%2Fpkg&packetEncoding=xudp&sni=s3.netavex.com&sid=f79448a30d&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&mode=packet-up&encryption=none&fp=edge#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20780
+vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689/?type=httpupgrade&encryption=none&flow=&host=www.filimo.com&path=/host#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20821
