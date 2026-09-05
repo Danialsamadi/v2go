@@ -1,2 +1,2 @@
-vless://a2d7890a-5451-4470-9300-a059792924bb@49.50.76.194:443?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%2075
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20690
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20SS%20%7C%20295
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20548

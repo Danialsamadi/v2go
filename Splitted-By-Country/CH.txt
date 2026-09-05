@@ -1,1 +1,0 @@
-vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@ch-xh01.tcp-reset-club.net:443?encryption=none&fp=&mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20VLESS%20%7C%20799
