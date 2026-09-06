@@ -1,2 +1,2 @@
-vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=31.76.21.44.fwqfw783rg2dad.website#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20180
-trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TROJAN%20%7C%20772
+vless://3a42d8f9-12ce-5345-bfdb-5a5c605c2da5@31.76.21.44:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=31.76.21.44.fwqfw783rg2dad.website#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%2099
+vless://9abe6dbd-5988-4943-8a93-afc65ab50f54@vips.irhubby.ir:8080?encryption=none&type=ws&path=/&host=vips.irhubby.ir#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20363
