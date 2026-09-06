@@ -1,1 +1,1 @@
-vless://a5194487-9b9a-462f-a047-ac7580d80201@167.104.104.138:8443?security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=n.tmkkarss.online#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20260
+vless://a5194487-9b9a-462f-a047-ac7580d80201@167.104.104.138:8443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=n.tmkkarss.online#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20232
