@@ -1,5 +1,4 @@
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=%2F&type=grpc&serviceName=TunService&sni=www.google.com#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20312
-vless://242416dd-614a-4243-9bb8-a55f68a80a52@82.40.62.11:32217?type=tcp&encryption=none&security=reality&pbk=39JaPRRNVgIevtmeJsQhumvIVLMq11FHQoR5oseirFg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20368
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20409
-vless://ebc2ea06-ed09-4d59-80b5-bfb3885b308b@82.40.62.11:14837?type=tcp&encryption=none&security=reality&pbk=39JaPRRNVgIevtmeJsQhumvIVLMq11FHQoR5oseirFg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20455
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSnRzZ2xsRERKZk5tYVRl@64.176.73.160:8388#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20228
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20231
+vless://242416dd-614a-4243-9bb8-a55f68a80a52@82.40.62.11:32217?type=tcp&encryption=none&security=reality&pbk=39JaPRRNVgIevtmeJsQhumvIVLMq11FHQoR5oseirFg&fp=chrome&sni=amp-api-edge.apps.apple.com&spx=/#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20320
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?encryption=none&fp=&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&security=reality&serviceName=TunService&sni=www.google.com&type=grpc#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20VLESS%20%7C%20422

@@ -1,3 +1,3 @@
-vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80?&type=ws&headerType=none&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20227
-vless://9d9e3421-5652-4804-85ba-238355b948ab@94.183.170.248:443?encryption=none&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20254
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443/?type=ws&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20307
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443/?type=ws&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20310
+vless://38dd06a1-e1cb-492b-bb87-218ce05d0d67@185.143.233.5:80/?type=ws&encryption=none&flow=&host=fox-a9e04bb07a-test.apps.ir-central1.arvancaas.ir&path=/#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20329
+vless://9d9e3421-5652-4804-85ba-238355b948ab@94.183.170.248:443?encryption=none&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20400
