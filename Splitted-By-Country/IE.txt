@@ -1,1 +1,1 @@
-vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289/?type=tcp&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%201073
+vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?&type=tcp&headerType=none&path=%2F#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20469
