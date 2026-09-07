@@ -1,2 +1,1 @@
-vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443/?type=grpc&encryption=none&flow=&security=tls&sni=torr.wlrus.cfd&allowInsecure=1&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20424
-vless://fd02b0f1-6dbc-499a-8ea4-135b48e9f186@188.68.218.160:443?type=xhttp&security=tls&encryption=none&path=%2Fapi%2Fv2%2F&host=forward-change.madapp.cc&sni=forward-change.madapp.cc&fp=firefox&alpn=h2%2Chttp%2F1.1&headerType=none&mode=packet-up#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20761
+vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443/?type=grpc&encryption=none&flow=&security=tls&sni=torr.wlrus.cfd&allowInsecure=1&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20429
