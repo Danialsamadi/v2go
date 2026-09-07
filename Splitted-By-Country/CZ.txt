@@ -1,0 +1,1 @@
+vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?security=reality&encryption=none&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=uuidp.aeternavpn.space&sid=a1b2c3d4#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%2070

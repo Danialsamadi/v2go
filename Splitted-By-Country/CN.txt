@@ -1,1 +1,0 @@
-vless://d73f779e-ff9d-4b8d-93ff-78d501d5e96d@104.21.39.85:443?encryption=none&type=ws&host=log-SvC-1FC77c.t2579389.worKErS.DEv&path=%2Fvl%2Fkpk5fFIH3eKOVGp0sJeTxbUDLt1oFhM%3Fed%3D2560&security=tls&fp=chrome&sni=log-SvC-1FC77c.t2579389.worKErS.DEv#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20974
