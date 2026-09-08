@@ -1,2 +1,0 @@
-vmess://eyJhZGQiOiI3OC4xNy43MS4yMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjNhMTEwNjgtMWE3ZS00NjQzLTg1ZGUtN2M4MmNjZTQ2OTQzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLXdzIiwicG9ydCI6IjMzNzM2IiwicHMiOiJ2MmdvIHwg8J+HrvCfh6ogSUUgfCBWTUVTUyB8IDE4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjgxIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://humanity@54.216.143.197:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20TROJAN%20%7C%20536

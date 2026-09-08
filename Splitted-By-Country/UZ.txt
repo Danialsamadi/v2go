@@ -1,0 +1,1 @@
+vless://50414e45-4c5f-5a45-5553-4017ea8bea78@104.18.80.149:443?path=%2Fstream%2FPANEL_ZEUS%2F4017ea8bea78%2Floc-4&security=tls&encryption=none&host=zeus-panel-mvtum1.mahdiharchegani.workers.dev&type=ws&insecure=0&fp=unsafe&allowInsecure=0&sni=zeus-panel-mvtum1.mahdiharchegani.workers.dev#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%7C%20VLESS%20%7C%20651
