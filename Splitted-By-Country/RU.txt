@@ -1,2 +1,2 @@
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@188.225.33.141:443?path=/api/connect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws&sni=wstg.datasynctrue.online#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20450
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20675
+vless://1f507f26-949e-4dab-9191-0d116e2bd8aa@tr2.wba-pn.ru:443?type=ws&security=tls&sni=tr2.wba-pn.ru&fp=chrome#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20508
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20569
