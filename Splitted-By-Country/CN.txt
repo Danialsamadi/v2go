@@ -1,0 +1,1 @@
+vless://566c0473-382e-aabb-c62a-f5bb00000000@172.67.202.235:443?type=ws&security=tls&encryption=none&path=%2Fsync&host=ez-4b5fd4.appelidmymat.workers.dev&sni=ez-4b5fd4.appelidmymat.workers.dev&fp=chrome&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%201142
