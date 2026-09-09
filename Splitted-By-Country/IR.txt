@@ -1,1 +1,2 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=estproxy4.lockdwn.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20361
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=estproxy4.lockdwn.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20291
+vless://8619f429-1ca5-4e53-a94e-1dd36b585396@snapp.ir:2052?path=/&security=&encryption=none&host=cdn.pershiansport.ir&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20765
