@@ -1,0 +1,1 @@
+vless://78a9fc3e-6e25-47f5-8bfa-a4ae2cf870aa@BON-cDn-APPLE-9t6ni35l8n2CKw.moranosd.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=xn--cdn-google-922p938m204clvxe.com.gvt1.com&fp=ios&pbk=7gzxsxnqwoh1HEfp02BQpEmMaIFHqz4RL8h68hZqsjc&sid=6ea3daaac3d6bede&allowInsecure=1#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%7C%20VLESS%20%7C%20628
