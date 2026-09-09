@@ -1,3 +1,1 @@
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%20194
-vless://1f61fc64-3113-4a23-9670-a33208026dbc@191.44.33.69:443?path=/xhttp-proxy&mode=auto&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sni=5post-gate.x5.ru&type=xhttp&encryption=none&sid=a8f3c1d7e9b4c2f6&fp=chrome&security=reality#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%20295
-vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.76.89.110:8443?mode=auto&path=/?@MARAMBASHI--MARAMBASHI?ed=2048&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=chrome&type=xhttp&sni=wikihow.com#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%20306
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%20134
