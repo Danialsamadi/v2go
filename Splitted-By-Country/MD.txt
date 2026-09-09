@@ -1,1 +1,0 @@
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=%2F%3FTELEGRAM--MUSICLOVERS85&serviceName=hub.v1.SyncService&mode=gun#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%20105

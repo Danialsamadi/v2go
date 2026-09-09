@@ -1,0 +1,1 @@
+trojan://Telegram_healer_config@188.114.96.8:443?path=%2Ftr%2F1nWXnOaq1ajP7PKxbRS7Sdck48oy%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=y9p34jpjmqjazaypf.piiwddilxjcqehr17af22u7xk-yu.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=y9p34JPJmQJazaYpf.pIIwDDIlxJcQEHr17af22U7XK-yu.workeRS.Dev#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20TROJAN%20%7C%20653
