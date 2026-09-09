@@ -1,3 +1,3 @@
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?encryption=none&fp=edge&path=%2Fwebsocket&security=tls&sni=ru05.abvpn.ru&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20324
-vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443/?type=grpc&encryption=none&flow=&security=tls&sni=torr.wlrus.cfd&allowInsecure=1&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20424
-vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20439
+vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?encryption=none&fp=edge&path=%2Fwebsocket&security=tls&sni=ru05.abvpn.ru&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20189
+vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443/?type=grpc&encryption=none&flow=&security=tls&sni=torr.wlrus.cfd&allowInsecure=1&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20481
+vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20505
