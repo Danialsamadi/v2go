@@ -1,1 +1,0 @@
-vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@pl.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=pl.cloudtechone.org&sid=f93c9d5127e622e4#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20VLESS%20%7C%2049
