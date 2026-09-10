@@ -1,0 +1,1 @@
+vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@45.80.108.236:443?encryption=none&type=ws&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&path=/proxyip&security=tls&sni=lively-resonance-4e12.electrocellco-cf-059.workers.dev#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20412
