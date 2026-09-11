@@ -1,1 +1,0 @@
-vless://170fb6f8-a34d-4f50-9275-e48ab47c58fd@india.shadowlos.top:443?host=india.shadowlos.top&security=tls&serviceName=YPN65c1yiYLmpXbRn0lG&sni=india.shadowlos.top&type=grpc&fp=android#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20384
