@@ -1,1 +1,2 @@
-vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443?encryption=none&fp=chrome&security=tls&sni=torr.wlrus.cfd&type=grpc#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20115
+vless://167610e4-bcaf-4074-bc2d-0c08dc4ea294@45.9.2.171:8443?encryption=none&fp=chrome&security=tls&sni=torr.wlrus.cfd&type=grpc#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20219
+vless://238e492b-bc20-4380-92b6-135d39112ca4@188.225.45.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api8.eaglors.com&fp=qq&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&spx=/&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20269
