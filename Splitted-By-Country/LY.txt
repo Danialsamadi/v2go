@@ -1,1 +1,0 @@
-vless://50414e45-4c5f-5a45-5553-44890b90d17e@104.21.238.93:443?path=%2Fstream%2FPANEL_ZEUS%2F44890b90d17e%2Floc-0&security=tls&encryption=none&insecure=0&host=afzoybehu2ws.vtzv4xe1un6s.workers.dev&type=ws&allowInsecure=0&sni=afzoybehu2ws.vtzv4xe1un6s.workers.dev#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BE%20LY%20%7C%20VLESS%20%7C%20316
