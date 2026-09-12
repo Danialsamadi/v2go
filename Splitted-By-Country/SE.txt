@@ -1,2 +1,0 @@
-vless://dfad3362-8534-4495-bf49-89f2ae229e7a@77.223.119.80:8200?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru01.arpanet-cdn.com&fp=chrome&pbk=1KrzmnGnXweOpiuDle8bRNY6BPXWsD7ufzx1uFurl1c&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20240
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@88.216.130.139:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iRym2aMWC0ZoLJL7MtJm9p0xqFMutfe6_5B5tZyobxU&sni=apple.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20747

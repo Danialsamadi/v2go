@@ -1,1 +1,0 @@
-vless://52d1d193-7a49-4d2e-9d52-c2615704034b@46.22.211.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tfexhuu4WxxFCJJ1WKgaDUm-3WQW_dK9UTsSCWqxDiE&security=reality&sid=380705b1fcb54f4e&sni=ei.baboon.digital&type=tcp#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20607

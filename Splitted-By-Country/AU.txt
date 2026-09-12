@@ -1,1 +1,2 @@
-vless://731f177e-00aa-480c-b935-661456139a32@103.75.119.126:2087/?type=ws&encryption=none&flow=&path=%2F7586c69d3dc9&packetEncoding=xudp#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%20636
+vless://682300d9-74d0-4dae-923c-09cb5d5e9951@103.75.119.11:443?encryption=none&type=xhttp&mode=stream-one&host=sberbank.ru&path=%2Fapi%2Fv1%2Fc8dd02d6&security=reality&fp=chrome&pbk=OvlkCDO6YdWR0ec3kVHW-Ul7I9TuEmJVfxXdaZiy5Ug&sni=sberbank.ru&sid=2cbe511ff1f9200b#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%20525
+vless://731f177e-00aa-480c-b935-661456139a32@103.75.119.126:2087?encryption=none&type=ws&path=%2F7586c69d3dc9&security=none#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%20618
