@@ -1,1 +1,2 @@
-vless://a5194487-9b9a-462f-a047-ac7580d80201@167.104.104.138:8443?encryption=none&security=tls&sni=n.tmkkarss.online&fp=chrome&allowinsecure=0&type=ws&path=/#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20507
+vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.7.154:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20115
+vless://a5194487-9b9a-462f-a047-ac7580d80201@167.104.104.138:8443?encryption=none&security=tls&sni=n.tmkkarss.online&fp=chrome&allowinsecure=0&type=ws&path=/#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20381

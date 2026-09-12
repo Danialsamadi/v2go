@@ -1,1 +1,0 @@
-vless://d0dd16f2-81b4-4892-933e-040856457242@193.29.225.249:4443?path=/@Marisa_kristi&security=tls&encryption=none&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&ech=cloudflare-ech.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AE%20SI%20%7C%20VLESS%20%7C%20961
