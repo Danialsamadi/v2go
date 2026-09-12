@@ -1,1 +1,1 @@
-vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@88.216.130.139:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iRym2aMWC0ZoLJL7MtJm9p0xqFMutfe6_5B5tZyobxU&sni=apple.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20613
+vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@88.216.130.139:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iRym2aMWC0ZoLJL7MtJm9p0xqFMutfe6_5B5tZyobxU&sni=apple.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20637
