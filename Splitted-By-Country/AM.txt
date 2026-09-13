@@ -1,1 +1,0 @@
-trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?path=%2Fchatbot&security=tls&insecure=0&host=de2.x8lab.org&fp=safari&type=ws&allowInsecure=0&sni=de2.x8lab.org#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20TROJAN%20%7C%20291
