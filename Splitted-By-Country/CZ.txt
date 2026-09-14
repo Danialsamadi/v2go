@@ -1,1 +1,0 @@
-vless://08b6dd4b-08df-4aa2-9580-92a3360cf07c@188.130.208.210:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=x_sc52Wgwr7bsogvKRA5hHHS5PJpdocqZNW_Up1mty8&security=reality&sid=59ab2fc39ec55bc7&sni=edge-cz1.lovely.ceo&type=tcp#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20419
