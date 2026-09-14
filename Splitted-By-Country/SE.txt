@@ -1,0 +1,2 @@
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=xhttp&sni=download.intel.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20183
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20543
