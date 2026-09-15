@@ -1,1 +1,1 @@
-vless://8e403675-d020-4801-9520-9cba4bbfda0e@lith.2clash.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lith.2clash.ru&fp=firefox&security=reality&pbk=66DIn_CbsE4-fWeWpy3vrRLP-XN8D-axun3jbZzuPmk&sid=#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20716
+trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?host=0403.infinityconfig4.workers.dev&path=%2Fsync&sni=0403.infinityconfig4.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20TROJAN%20%7C%20605
