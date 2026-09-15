@@ -1,2 +1,1 @@
-vless://aea9e420-de22-4dcb-93b8-af1f71a3c264@82c0f.tornadonext.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=82c0f.tornadonext.com&fp=firefox&pbk=R_ax16JLUFGtv5quE08v6l35O7B_-3j5C31ejUBElRU&sid=6bcd199b&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%2033
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%2095
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443?#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20129

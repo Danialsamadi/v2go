@@ -1,1 +1,0 @@
-vless://0a190d44-1685-4c95-880e-6afd058b649b@87.242.94.175:1443?type=grpc&security=reality&encryption=none&sni=360.yandex.ru&fp=firefox&pbk=mK6jUHK0Iv4jpVqpvs4oadjh2Pifkz4QwrOdhWHJ9U0&sid=66371c8d7a&headerType=none&mode=gun#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20856

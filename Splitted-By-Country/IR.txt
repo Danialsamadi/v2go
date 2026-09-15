@@ -1,2 +1,0 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20204
-vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?encryption=none&security=tls&sni=tgmansion.site&fp=firefox&type=ws&path=%2Fvless-ee#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20631
