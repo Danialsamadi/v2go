@@ -1,1 +1,1 @@
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@sa1.zuoai.cf:443?&security=tls&fp=chrome&sni=nb.lovecf.ggff.net&type=ws&headerType=none&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20VLESS%20%7C%20919
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@sa1.zuoai.cf:443?&security=tls&fp=chrome&sni=nb.lovecf.ggff.net&type=ws&headerType=none&host=nb.lovecf.ggff.net&path=%2Fproxyip%3Dus.xiabibi.cf#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A6%20SA%20%7C%20VLESS%20%7C%20728
