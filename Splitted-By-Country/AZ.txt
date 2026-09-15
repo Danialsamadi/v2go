@@ -1,1 +1,0 @@
-vless://1c569d2b-2b47-4537-b3e4-3b5e584e7261@180.149.45.23:51263?security=reality&encryption=mlkem768x25519plus.native.0rtt.z2lQdZuAvw8Z9sKuq4FPN9yFFy6avST0-wfa_U3r4ik&pbk=6-NCqGgOv0nBZSIEMECZh0yaA_IuGEl2Vr1IVvY5Kx0&headerType=none&fp=chrome&type=tcp&sni=www.fnac.com&sid=053fc431129db566#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%7C%20VLESS%20%7C%20337
