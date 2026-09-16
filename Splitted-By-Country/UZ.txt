@@ -1,0 +1,2 @@
+vless://50414e45-4c5f-5a45-5553-565221666bd1@172.64.95.237:443?encryption=none&security=tls&sni=mczrh5e3u5ps.shoameny.workers.dev&fp=unsafe&type=ws&host=mczrh5e3u5ps.shoameny.workers.dev&path=/stream/PANEL_ZEUS/565221666bd1/loc-5#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%7C%20VLESS%20%7C%20199
+vless://50414e45-4c5f-5a45-5553-4eef5adc237a@188.114.97.6:8080?&type=ws&headerType=none&host=r5zenrelur2s.pqzdileiu8es.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F4eef5adc237a%2Floc-1#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%7C%20VLESS%20%7C%20979
