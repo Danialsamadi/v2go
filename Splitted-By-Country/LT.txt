@@ -1,2 +1,0 @@
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@usa.superbuba.top:443?security=reality&encryption=none&pbk=5en_SFrWntR3ZtxGn7_ZnnK5UW_Prh90rs-o8p7glw4&fp=firefox&spx=%2F&type=grpc&sni=usa.superbuba.top&sid=9c2378562188c3cb#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%2059
-vless://3c48b5f5-7766-4896-874e-b3ba1860e83a@88.216.195.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4VzPARgETZ4lJIffknTNqmfkP567FqYV94A18Be8vxQ&security=reality&sid=837f454e9c8a7e19&sni=w-mebel.pro&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%2072
