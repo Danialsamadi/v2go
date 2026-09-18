@@ -1,2 +1,2 @@
-vless://5561acfb-0adc-4c76-bfbf-767a76c7cbf0@87.120.196.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=holo-stream.videocactus.xyz&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20344
-vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20363
+vless://5561acfb-0adc-4c76-bfbf-767a76c7cbf0@87.120.196.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=holo-stream.videocactus.xyz&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20534
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20550
