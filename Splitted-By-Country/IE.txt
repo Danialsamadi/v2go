@@ -1,4 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%2024
-vless://c8352d7a-493a-44cd-9395-c8c9e0392070@78.17.131.25:8443?security=reality&encryption=none&pbk=NX4_NvgDeswlt2mjLq1CWYRwJ4X9qJ1l8HMdhIa4Ozg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=6fb5284cc412c0e9#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20208
-vless://ff6e1028-b337-4062-a4db-86c784a9cdb4@78.17.131.25:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=NX4_NvgDeswlt2mjLq1CWYRwJ4X9qJ1l8HMdhIa4Ozg&sid=6fb5284cc412c0e9&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20241
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNTE0wNWVaN0RKSDhqU254@52.138.147.200:443?outline=1&prefix=POST#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20328
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20149
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNTE0wNWVaN0RKSDhqU254@52.138.147.200:443?outline=1&prefix=POST#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20150
