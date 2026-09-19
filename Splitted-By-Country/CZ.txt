@@ -1,0 +1,1 @@
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@cz1.zuoai.cf:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20166
