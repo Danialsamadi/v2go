@@ -1,1 +1,0 @@
-vless://ee7dd2fe-0a16-468a-bd45-55c221b2a8e2@213.155.20.83:443?security=reality&encryption=none&pbk=RR_T91yZY_QUPN53wQNakGmCN3mq0i_Ozom7etyh4RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lavkin.kz#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20522

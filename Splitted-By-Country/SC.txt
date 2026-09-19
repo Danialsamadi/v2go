@@ -1,3 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?type=ws&host=vms.lifetime37.workers.dev#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%2060
-vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20162
-vless://6bef6685-e989-467c-8fea-7fa1c6a0af2c@194.156.26.16:443?encryption=none&fp=firefox&path=/vl/BBj8crirrHMxntD7H3o3z&security=tls&sni=LZc2j8i5PteXj5I7Aq0hFxQadvZcq.wF99sAF201Sfs9.wOrKers.dev&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20840

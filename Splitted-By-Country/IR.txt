@@ -1,2 +1,2 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20415
-vless://7957928d-bcfb-45bb-8e78-a072ef578ae4@poland2.serverslocal.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=poland2.serverslocal.ru&fp=random&pbk=dkaIImQrQ1ZVQGNfyrNZbtkE-8hxp_u8AH99XDFgfHw&sid=75c55b707d25ae8d&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20870
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20328
+vless://d2bf8658-06dc-4462-80d4-39c5c3bb0dd8@fr.masterpgd.com:6010?mode=stream-up&path=%2Fassets&security=none&encryption=mlkem768x25519plus.random.0rtt.4ZiK3Dv6QqgU4hTboAe80H0CPJ6KV_GUdsjOCLY3UlA&host=myket.ir&type=xhttp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20668
