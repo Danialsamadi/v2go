@@ -1,2 +1,0 @@
-vless://d144d943-46bd-41ce-af2c-06358c845616@194.58.43.245:2089?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%2037
-vless://b8201bab-fa6c-4f6e-b289-b5da660c6f69@46.8.200.91:443?encryption=none&host=cf3.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf3.rumedia-cdn.com&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%20211
