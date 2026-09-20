@@ -1,0 +1,1 @@
+vless://761efc94-d0c3-4c62-9235-104ff9b6cc48@50.114.160.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=api-maps.yandex.ru&type=tcp#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20588
