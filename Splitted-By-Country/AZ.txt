@@ -1,1 +1,0 @@
-vless://9af3f593-e81b-46a2-a49d-ec108fe95c8f@azerieyxo.quickpl.ir:9095?security=&encryption=mlkem768x25519plus.native.0rtt.tmnG1vwjgfEAuHvBDJd9xLzrLJSk8Ts9IxU2oa2nYjE&headerType=none&type=tcp#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%7C%20VLESS%20%7C%20657
