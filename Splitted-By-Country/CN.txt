@@ -1,1 +1,0 @@
-vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=app-q0zc4t.user-4gfyh5.workers.dev&type=ws&headerType=none&host=app-q0zc4t.user-4gfyh5.workers.dev&path=%2F#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20658
