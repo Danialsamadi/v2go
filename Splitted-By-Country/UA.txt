@@ -1,2 +1,0 @@
-vless://515fa0fd-8d70-47dc-a82e-06c257be1fdb@latte.coffebahnem.site:80?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&pbk=qRmJt3yJ1D6msG1yp3CVRZkXbNM_I6cWN07DlYLbHms&type=tcp&headerType=none&fp=edge#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20493
-vless://cb15d1b0-e48b-4c4c-b98a-fa1103aa3723@87.76.179.117:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=firefox&security=reality&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20654
