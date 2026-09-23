@@ -1,0 +1,1 @@
+vless://XpnTeam-24@199.232.78.160:443?insecure=0&encryption=none&security=tls&fp=chrome&sni=ssl.fastly.com&allowInsecure=0&path=%2F&type=ws&alpn=http%2F1.1&host=Appxdn.global.ssl.fastly.net#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AA%20BE%20%7C%20VLESS%20%7C%2091

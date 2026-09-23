@@ -1,0 +1,1 @@
+vless://6a2c53d9-6b36-442e-b986-bd85b338368d@185.86.145.78:8443?encryption=none&type=grpc&security=reality&sni=idlecore.me&fp=safari&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&allowInsecure=1#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20498
