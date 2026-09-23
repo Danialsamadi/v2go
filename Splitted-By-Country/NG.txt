@@ -1,0 +1,1 @@
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20964

@@ -1,1 +1,1 @@
-vless://fb5058f5-a9ed-424e-9ed7-33d455438286@193.227.99.2:8880?encryption=none&host=old-violet-a5ce.29-440.workers.dev&path=/pyip=Telegram+@WangCai2&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%B9%20MT%20%7C%20VLESS%20%7C%20620
+vless://fb5058f5-a9ed-424e-9ed7-33d455438286@193.227.99.2:8880?encryption=none&host=old-violet-a5ce.29-440.workers.dev&path=/pyip=Telegram+@WangCai2&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%B9%20MT%20%7C%20VLESS%20%7C%20909
