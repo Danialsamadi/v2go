@@ -1,2 +1,0 @@
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@93.123.39.203:8443?path=%2Fassets&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=est.luxes.network#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20107
-vless://6fb79584-30b8-4888-b358-98f7ef6b8697@46.22.216.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mail.protech-plus.ee&fp=random&pbk=NiCJO84l7l--GJ10ggvb6HcOS8qLR30pWTphwvWozhg&type=tcp#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20557
