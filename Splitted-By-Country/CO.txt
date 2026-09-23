@@ -1,1 +1,0 @@
-vless://8ec1a004-34f5-4c2b-88f5-42c27c887c04@144.31.203.152:443?security=reality&encryption=none&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=account.amd.com&sid=be0191cc#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20VLESS%20%7C%20521

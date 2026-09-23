@@ -1,1 +1,0 @@
-vless://e950cb84-4d46-44f8-ba9a-e6064e7ec2a4@144.31.129.19:443?security=reality&encryption=none&pbk=gF0oeN2ndJ1hDZynSUu504hiXzUI6oioEerdyG7yMVQ&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=media-crown.ru&sid=d9662905#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20BY%20%7C%20VLESS%20%7C%20597
