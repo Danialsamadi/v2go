@@ -1,1 +1,0 @@
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@64.176.18.104:80?security=none&type=ws&host=platform109.halalkhor.info&path=/platform109#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20VLESS%20%7C%20768
