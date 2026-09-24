@@ -1,2 +1,2 @@
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=%2Fws#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%AD%20TH%20%7C%20VLESS%20%7C%20197
-vless://2b1d0c2a-9c80-4b72-892e-93d0500b9210@34.15.162.1:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=LklWoqMQz_TWiuLCUNRwHAKX1adVRSGMhtbo98fbDxw&sid=ca672c53fbbac555#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%AD%20TH%20%7C%20VLESS%20%7C%20483
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?encryption=none&security=none&type=ws&host=aIs.SpEeDtEsT.nEt&path=%2Fws#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%AD%20TH%20%7C%20VLESS%20%7C%20262
+vless://2b1d0c2a-9c80-4b72-892e-93d0500b9210@34.15.162.1:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=LklWoqMQz_TWiuLCUNRwHAKX1adVRSGMhtbo98fbDxw&sid=ca672c53fbbac555&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%AD%20TH%20%7C%20VLESS%20%7C%20550
