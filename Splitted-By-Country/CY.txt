@@ -1,0 +1,1 @@
+vless://73606ef5-51ab-4182-8ae8-41a50e1a9d52@api-1.hysteria.ltd:4443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-1.hysteria.ltd&fp=firefox&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20546
