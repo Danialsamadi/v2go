@@ -1,2 +1,1 @@
-vless://482514e8-2979-4628-acf3-d04f607c4f12@78.17.85.30:443?flow=xtls-rprx-vision&fp=firefox&pbk=zsHnZqOsCsD1-WFxqIsQZAuS9KNyGLmFD7KFHf7PRF8&sni=flo.ufogame.tech&type=tcp&headerType=none&encryption=none&sid=04f1c6d2&security=reality&fm=AhmadV2ray&spx=%2FAhmadV2ray#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20219
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20261

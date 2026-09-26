@@ -1,0 +1,1 @@
+vless://f7ec46bd-cb6e-44c2-b566-79873500e64d@188.225.77.227:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=tw1.originask.site&fp=safari&pbk=cf3bZVqTQL0ksSxntpFU1uFQQEHrcV_8b3ZDVoFxTis&sid=1e573a22e9d313bc&spx=%2F&allowInsecure=1#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20650
