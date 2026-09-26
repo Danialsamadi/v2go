@@ -1,1 +1,1 @@
-vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226/?type=tcp&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20VLESS%20%7C%20552
+vless://9aab8f39-ccb3-44ea-acdc-a8aefe211287@45.164.20.114:10226/?type=tcp&encryption=none&flow=#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20VLESS%20%7C%20402
