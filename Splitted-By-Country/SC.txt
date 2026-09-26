@@ -1,1 +1,1 @@
-vless://440f3c08-7599-406e-8ba3-7dbc6324c5ed@45.149.147.110:8443?type=grpc&security=reality&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba&sni=api.vkimages.io&serviceName=grpc-yandex&fp=chrome#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20294
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?encryption=none&host=nahan-core.netizo09.workers.dev&path=%2Fsync&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20259

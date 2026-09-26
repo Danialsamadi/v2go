@@ -1,1 +1,2 @@
-vless://4b87c68d-762f-4969-9680-36bfb9daa858@172.67.221.237:2052?encryption=none&type=httpupgrade&path=/wss&host=nexomob.netvia.ir#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20206
+vless://c40ec629-cd50-4569-8ea7-ea7c498423fd@95.133.236.241:443?mode=gun&security=reality&encryption=none&pbk=BzI9KKxbdc7fbgZpK0WX9p6jgJBVJo44dj6D15uW5HA&type=grpc&sni=ads.x5.ru&sid=77d4e9e5a5243324&fp=chrome#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%2040
+vless://4b87c68d-762f-4969-9680-36bfb9daa858@172.67.221.237:2052?encryption=none&type=httpupgrade&path=/wss&host=nexomob.netvia.ir#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20128
