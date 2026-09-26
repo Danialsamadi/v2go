@@ -1,0 +1,1 @@
+vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@45.149.147.97:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=safari&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&sid=d345ad4657adeef9&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20626

@@ -1,2 +1,1 @@
-vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@link.mrpgd.ir:6008?encryption=none&security=none&type=xhttp&path=%2Fcore%2Fimages%2Fhome%2Fbanner%2Fs1_illustration_apps.svg&host=afr-data15.myket.ir&mode=stream-up#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20338
-vless://1cc6bd10-e414-4171-9220-09aaba23a6fa@link.mrpgd.ir:6008?encryption=none&security=none&type=xhttp&path=%2Fcore%2Fimages%2Fhome%2Fbanner%2Fs1_illustration_apps.svg&host=afr-data15.myket.ir&mode=stream-up#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20339
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20406
