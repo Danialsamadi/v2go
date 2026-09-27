@@ -1,3 +1,3 @@
-vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@afra4.nimbaha9.ir:2052?path=/eyurri&security=none&encryption=none&host=afra4.nimbaha9.ir&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20387
-vless://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:8081?encryption=none&security=none&type=ws&path=%2Fws%2Fgenerate&host=hys2.arkonsoft.top#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20448
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20631
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20370
+vless://e0ff8a9b-dad3-4671-baf4-c8d466d1eb48@afra4.nimbaha9.ir:2052?encryption=none&type=ws&host=afra4.nimbaha9.ir&path=%2Feyurri&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20586
+vless://e60bc99b-6630-4799-af84-f90ebdc643b6@94.183.170.65:8081?encryption=none&security=none&type=ws&path=%2Fws%2Fgenerate&host=hys2.arkonsoft.top#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20587
