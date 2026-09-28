@@ -1,0 +1,1 @@
+vless://9a3d5f36-fa72-4ced-94d3-7f6f046ec085@144.31.128.84:24531?encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=www.aviasales.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%20724
