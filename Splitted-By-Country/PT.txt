@@ -1,0 +1,1 @@
+vless://5cae8834-c560-43c0-8721-e2c7e760122f@185.113.142.145:443?encryption=none&type=xhttp&security=tls&host=pt1.darknet.lol&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-data%2F&sni=pt1.darknet.lol&allowInsecure=0#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B9%20PT%20%7C%20VLESS%20%7C%20246
