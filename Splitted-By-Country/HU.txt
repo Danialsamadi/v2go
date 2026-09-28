@@ -1,0 +1,2 @@
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU%20%7C%20TROJAN%20%7C%20227
+vless://7de5e70d-b95e-4019-affb-636151647b52@45.9.168.211:443?encryption=none&flow=xtls-rprx-vision&fp=safari&headerType=&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&security=reality&sni=mzone.hu.3cloudhost.com&type=tcp#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%BA%20HU%20%7C%20VLESS%20%7C%20530
