@@ -1,5 +1,2 @@
-vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@62.60.152.1:56328?flow=xtls-rprx-vision&encryption=none&security=reality&sni=table.vkroom-it-service.xyz&pbk=iI1pc8k9-mIPHL2Dga-4n4h3KoBT68lN434nglpgm2M&sid=f3a9c21e8b6d4571&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%2098
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20411
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5cUdjTmlaajR1Q2k3REdTanhsZzVR@80.242.57.97:1#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20456
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20485
-vless://3f908dab-7e38-407b-af8c-d81b8a228d13@95.129.236.239:443?type=ws&security=tls&encryption=none&path=%2Fstream%2F615428%2Fsocket&host=3ds.login.opendns.stream&sni=3ds.login.opendns.stream&fp=firefox&alpn=http%2F1.1&headerType=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20693
+vless://ce230b9c-0531-40da-bc3f-f27a8e059db1@62.60.152.1:56328?flow=xtls-rprx-vision&encryption=none&security=reality&sni=table.vkroom-it-service.xyz&pbk=iI1pc8k9-mIPHL2Dga-4n4h3KoBT68lN434nglpgm2M&sid=f3a9c21e8b6d4571&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%2076
+ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20221

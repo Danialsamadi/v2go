@@ -1,1 +1,0 @@
-vless://c4e6cb77-ab66-42ef-be33-6b791fe604a0@ee.obxodvpn.us:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.apple.com&pbk=uOp9IW69PEn-toNzDs9IlCs8sdsMYm4XXjiPerrj41k&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20659
