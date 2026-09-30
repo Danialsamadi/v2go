@@ -1,3 +1,2 @@
-vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%2035
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20303
-vless://b6b222ad-5702-4416-90e7-6b1aa71d65bf@89.169.21.180:2087?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=_aK_w8AC7ZyTe_2xLOF1L46W72EpZQPTv_ueWXdBmRc&sni=player.videocactus.xyz&sid=643b09236d19de90#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20810
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%2075
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNUQ2WU9TclQ2a0M3NnJv@20.123.34.66:443#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20SS%20%7C%20178
