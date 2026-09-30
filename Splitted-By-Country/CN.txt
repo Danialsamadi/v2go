@@ -1,1 +1,0 @@
-vless://20836693-ea23-4f40-a1e7-48a6da897917@netra-85a0ca.shoameni19.workers.dev:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=netra-85a0ca.shoameni19.workers.dev&path=%2Fvl%2FbluTTbb7MO8rvX1COEYH4WW4qzbr2aui&security=tls&sni=netra-85a0ca.shoameni19.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%2092

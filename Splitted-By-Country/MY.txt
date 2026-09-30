@@ -1,2 +1,2 @@
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDAwMCIsInBzIjoidjJnbyB8IPCfh7Lwn4e+IE1ZIHwgVk1FU1MgfCA0NyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=/platform109#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20VLESS%20%7C%20366
+vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsIm5ldCI6InRjcCIsInBvcnQiOiIxMDAwMCIsInBzIjoidjJnbyB8IPCfh7Lwn4e+IE1ZIHwgVk1FU1MgfCAxNzIiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?&type=ws&headerType=none&host=platform106.halalkhor.info&path=/platform106#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20VLESS%20%7C%20307
