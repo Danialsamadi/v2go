@@ -1,0 +1,1 @@
+vless://441a29b2-d9aa-47d5-9209-0a9191479f9f@185.143.179.179:25026?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=RVh0D446O5pKnOqlNkJNxSGGbmzl8swn4YBXYce1HSw&sni=www.google.com&sid=34c465417d7ebca0#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%AA%20GE%20%7C%20VLESS%20%7C%20593
