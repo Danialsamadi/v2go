@@ -1,1 +1,2 @@
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?mux=1&allowInsecure=1&sni=cheerful-swan.rooster465.autos#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20301
+trojan://UX82473651@202.78.163.237:443?allowInsecure=1&insecure=1&type=tcp&security=tls&path=%2F&sni=cheerful-swan.rooster465.autos#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20325
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=cheerful-swan.rooster465.autos#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20326
