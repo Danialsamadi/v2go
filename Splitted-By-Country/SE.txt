@@ -1,0 +1,1 @@
+trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TROJAN%20%7C%20407
