@@ -1,2 +1,2 @@
-trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20TROJAN%20%7C%20382
-vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@78.17.176.174:11515?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&security=reality&sid=65149fc5ba&sni=www.sony.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20546
+trojan://Trojan@82164024@ie.tronsg.com:443?security=tls&sni=ie.tronsg.com#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20TROJAN%20%7C%20410
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@78.17.176.174:11515?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&security=reality&sid=65149fc5ba&sni=www.sony.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20IE%20%7C%20VLESS%20%7C%20542
