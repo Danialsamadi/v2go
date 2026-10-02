@@ -1,2 +1,1 @@
-trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@109.110.162.40:23005?sni=82.yuanul.com&type=tcp#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20TROJAN%20%7C%20484
-vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYyNTYiLCJwcyI6InYyZ28gfCDwn4e78J+HsyBWTiB8IFZNRVNTIHwgNjg0Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://fac593ac-d6aa-4523-bea9-b3eb2a2b3da3@109.110.162.40:23005?security=tls&sni=82.yuanul.com&type=tcp#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20TROJAN%20%7C%20582

@@ -1,1 +1,1 @@
-vless://3d08ed67-5a47-42d3-a948-ebc7d2eb21f7@51.75.67.209:443?fp=firefox&security=tls&sni=free.sahanwickramasinghe.me&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20546
+vless://3d08ed67-5a47-42d3-a948-ebc7d2eb21f7@51.75.67.209:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=free.sahanwickramasinghe.me&fp=firefox#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20732
