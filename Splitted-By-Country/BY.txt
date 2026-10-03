@@ -1,1 +1,0 @@
-vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.74:2053?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20BY%20%7C%20VLESS%20%7C%2059
