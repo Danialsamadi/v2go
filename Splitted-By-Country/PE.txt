@@ -1,0 +1,1 @@
+vless://d18c6897-2849-456a-8c46-d7ecece47c20@172.65.90.41:2053?encryption=none&type=ws&host=wzs.echo.net.eu.org&path=%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlNSSwUEURwBVwcWUQYJGxsPQldGTQ8OBgJWFUU%3D&security=tls&fp=chrome&sni=wzs.echo.net.eu.org#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%AA%20PE%20%7C%20VLESS%20%7C%20716

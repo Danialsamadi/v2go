@@ -1,3 +1,2 @@
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos&allowInsecure=1&insecure=1&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20473
-trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20533
-vless://8e8ea5d2-6941-40fb-9efe-f9062b11b2b9@176.108.242.55:5002?&security=tls&fp=edge&sni=lm.centermass.net&type=ws&headerType=none&path=media.playback.v1.SessionGateway#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%20755
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos&allowInsecure=1&insecure=1&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20248
+trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20450
