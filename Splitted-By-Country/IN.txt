@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20SS%20%7C%20339
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sni=www.apple.com&sid=9980e0609b0d3891#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20470
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20SS%20%7C%20277
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sni=www.apple.com&sid=9980e0609b0d3891#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20602
