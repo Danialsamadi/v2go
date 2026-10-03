@@ -1,2 +1,3 @@
-trojan://UX82473651@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos&allowInsecure=1&insecure=1&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20248
-trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&path=/#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20450
+trojan://UX82473651@202.78.163.237:443?allowInsecure=1&sni=cheerful-swan.rooster465.autos&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20445
+trojan://UX82473651@cheerful-swan.rooster465.autos:443?allowInsecure=1&sni=cheerful-swan.rooster465.autos&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20449
+vless://8325bd97-b77c-4917-acaa-2446e9e8cc03@193.57.88.7:443?encryption=none&security=reality&sni=vk.com&fp=random&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&sid=79651ae525860543&type=grpc&serviceName=haknewhpjmv#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%20559

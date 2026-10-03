@@ -1,3 +1,1 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=surstreming.vvzzkontaktezzvv.garden&sid=fb442438e2223836#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%2098
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphSWVpbDRVVUdTRjV3bzFrZzlUZWJaZlhPRkxDWjY2Rw==@sw.roshdiran1.ir:53425?type=tcp#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20SS%20%7C%20400
-vless://3a87ed61-c186-4feb-b3fc-d9da4f31842f@chatgpt.com:2087?mode=stream-up&path=%2Fjoker&security=tls&alpn=h2&encryption=none&insecure=0&host=NbLxQcJv10.zUrAiNaP.DpDnS.OrG&type=xhttp&allowInsecure=0&sni=NbLxQcJv10.zUrAiNaP.DpDnS.OrG#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20545
+vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?type=tcp#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20483
