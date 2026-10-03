@@ -1,0 +1,1 @@
+vless://d9abc6e3-83bf-4c28-ae68-72465e2abe39@104.21.70.21:443?alpn=http/1.1&encryption=none&fp=unsafe&host=ikt-kkc25f27k-3tehr8mc.ade-1007.workers.dev&path=/vl/xQhNe7rLrdM0emZlaW5LMsNwcoIgnT?ed=2560&security=tls&sni=ikt-kkc25f27k-3tehr8mc.ade-1007.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20438
