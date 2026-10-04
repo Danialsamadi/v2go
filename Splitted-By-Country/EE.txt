@@ -1,1 +1,1 @@
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@194.26.141.148:8443?path=/vpn-wss/fluxor/59011/&security=tls&encryption=none&insecure=0&host=fdghyt.com&fp=chrome&type=ws&allowInsecure=0&sni=fdghyt.com#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20170
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@194.26.141.148:8443?&security=tls&fp=firefox&sni=fdghyt.com&type=ws&headerType=none&host=fdghyt.com&path=%2Fvpn-wss%2Ffluxor%2F59011%2F#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20548
