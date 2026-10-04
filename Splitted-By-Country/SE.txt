@@ -1,1 +1,1 @@
-vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=stigmata.ir#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20318
+vless://35f9c540-85cf-a4da-aca5-833daaa0bfc8@104.245.240.5:443?encryption=none&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&security=reality&sni=download.intel.com&type=xhttp&fp=chrome#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20401
