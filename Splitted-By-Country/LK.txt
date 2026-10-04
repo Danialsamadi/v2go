@@ -1,2 +1,2 @@
-vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?security=tls&encryption=none&insecure=0&host=trackydev.site&fp=chrome&type=ws&allowInsecure=0&sni=trackydev.site#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20350
-vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@free.sahanwickramasinghe.me:80?encryption=none&security=none&type=ws&host=free.sahanwickramasinghe.me&path=%2F#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20542
+vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?&security=tls&fp=chrome&sni=trackydev.site&type=ws&headerType=none&host=trackydev.site&path=/#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20289
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@free.sahanwickramasinghe.me:80?encryption=none&type=ws#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20540

@@ -1,1 +1,1 @@
-vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@geo.shkola112.site:443?encryption=none&host=geo.shkola112.site&path=/api-vless&security=tls&sni=geo.shkola112.site&type=ws#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%AA%20GE%20%7C%20VLESS%20%7C%20280
+vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@172.67.159.161:443?security=tls&sni=geo.shkola112.site&type=ws&host=geo.shkola112.site&path=%2Fapi-vless#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%AA%20GE%20%7C%20VLESS%20%7C%20545
