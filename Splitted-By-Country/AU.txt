@@ -1,1 +1,1 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20SS%20%7C%20566
+vless://4f865f35-cf47-4e7f-a7e6-8882511a1b36@34.87.229.148:443?mode=multi&security=reality&encryption=none&type=tcp&pbk=OgTkmAQdLjipA9oLloxbU5BAX3hPjzbvkEGHF4aZ8z4&sid=8a7d5e0248cdb1b1&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=chrome#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%20524
