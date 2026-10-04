@@ -1,0 +1,1 @@
+vless://4908acbe-485f-4e1c-bb11-5dd04b9f7e88@restless-base-fe24.alirezahabibi20009.workers.dev:443?encryption=none&host=restless-base-fe24.alirezahabibi20009.workers.dev&path=%2FeyJqdW5rIjoiRjhycEV5WUpJTGZpQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%2049
