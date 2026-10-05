@@ -1,0 +1,1 @@
+vless://4c346148-ece9-487a-bffb-ba5a399b2d71@188.225.83.133:443?type=grpc&security=reality&encryption=none&sni=xnodtwx.artemida.live&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&headerType=none&mode=gun#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20699
