@@ -1,1 +1,0 @@
-vless://76ac91c5-ea82-4046-8ee7-2ffbb563ac94@104.21.50.89:443?security=tls&sni=geo.shkola112.site&type=ws&host=geo.shkola112.site&path=/api-vless#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%AA%20GE%20%7C%20VLESS%20%7C%20778
