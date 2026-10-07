@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M=@45.207.207.25:443#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20SS%20%7C%20273
+vless://f259a2e5-fd8d-4db9-a3ac-6b26322cffa9@pl-ade19411d2.shamanapp.online:33740?mode=stream-up&path=%2FShamanXHTTP2026&security=reality&encryption=none&pbk=pQarlc3Ni939NSDqzoKR1-3Ya6RJGzB-xPUfzEAYU3Q&host=pl-ade19411d2.shamanapp.online&fp=chrome&spx=%2F&type=xhttp&sni=www.google.com&sid=f015d4a0#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20VLESS%20%7C%20623
