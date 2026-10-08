@@ -1,1 +1,1 @@
-vless://98b76bb7-b2d1-47a8-8767-0d294c33e749@70.34.197.239:80?path=%2F&security=&encryption=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20614
+vless://eac04622-531b-0009-b85f-3c2ee67565c6@ru-001.zapretu.net:443?security=reality&encryption=none&pbk=l9b1AQuRbk4WA3hUVHI3mGBW-X5gNKFF72fWvismAS0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ru-001.zapretu.net#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20593
