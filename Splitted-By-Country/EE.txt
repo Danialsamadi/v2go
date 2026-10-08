@@ -1,1 +1,1 @@
-vless://73705990-99fd-4deb-98b4-91ca7bf9bbc0@132.243.65.86:443?encryption=none&fp=firefox&security=tls&serviceName=content.v1.Feed&sni=ee2x.global-cdn.org&type=grpc#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20580
+vless://73705990-99fd-4deb-98b4-91ca7bf9bbc0@132.243.65.86:443?encryption=none&fp=firefox&security=tls&serviceName=content.v1.Feed&sni=ee2x.global-cdn.org&type=grpc#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20582
