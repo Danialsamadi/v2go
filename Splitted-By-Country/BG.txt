@@ -1,3 +1,1 @@
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?type=tcp&security=tls&sni=ger2.fytpn.com&fp=chrome#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20386
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20538
-vless://bf3e4a94-752f-45e3-817b-013ded50cc09@al02.pipecloud.tech:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=al02.pipecloud.tech&fp=firefox&pbk=veqiaEr00sB3VGwzlk_b67xo4G0OHNvqqiS0DGEhw2Y&allowInsecure=1#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20633
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20308
