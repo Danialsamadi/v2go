@@ -1,0 +1,1 @@
+trojan://95621b8e-5cf7-4123-9df4-38d903054a1b@193.233.216.27:443?mode=gun&security=reality&pbk=1HzJEMaYCrx2QQhuLLkcFiE5r2NegGHTBzHu0Sk1iWs&fp=chrome&spx=/&type=grpc&serviceName=62eec6c16880&sni=www.garmin.com&sid=4e34d88e858485db#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20TROJAN%20%7C%20527
