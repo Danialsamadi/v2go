@@ -1,1 +1,2 @@
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?type=tcp&security=tls&sni=ger6.fytpn.com&fp=chrome#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20371
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?type=tcp&security=tls&sni=ger6.fytpn.com&fp=chrome#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20309
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@194.87.6.192:2097?security=tls&sni=ger6.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20540

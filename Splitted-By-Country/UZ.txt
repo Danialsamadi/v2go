@@ -1,1 +1,0 @@
-vless://6f756511-7fc3-41ba-874b-8cdc8e1b225f@193.202.113.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&security=reality&sid=ee169e93d3c277a1&sni=edge-uk2.mystatic-cdn.ru&type=tcp#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%7C%20VLESS%20%7C%20395
