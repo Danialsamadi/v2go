@@ -1,1 +1,2 @@
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20308
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20495
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20641
