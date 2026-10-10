@@ -1,3 +1,3 @@
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?security=tls#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20493
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=/md/1#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%20510
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@194.87.6.192:2097?security=tls&sni=ger6.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20644
+vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=/md/1#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%20258
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger6.fytpn.com:2097?security=tls#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20274
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@194.87.6.192:2097?fp=firefox&sni=ger6.fytpn.com#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20TROJAN%20%7C%20796
