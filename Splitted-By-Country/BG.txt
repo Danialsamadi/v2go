@@ -1,1 +1,1 @@
-vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@drive.korroh.com:443?security=tls&sni=drive.korroh.com&fp=chrome&type=ws&path=/remote.php/dav/89f7661a0011ce46&host=drive.korroh.com&encryption=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20435
+vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@194.226.121.119:2087?security=reality&sni=www.apple.com&fp=chrome&pbk=sXOLkj_L8EpGL0yZA9laLDaPfpwVEcBVHLSvunPVQwA&sid=a644f94155c87551&type=grpc&serviceName=grpc&encryption=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20611

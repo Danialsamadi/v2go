@@ -1,1 +1,0 @@
-vless://8ff3db5a-5f41-4f25-a8a4-7fbf00f1c319@13.143.137.206:10443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&security=reality&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20RS%20%7C%20VLESS%20%7C%20615
