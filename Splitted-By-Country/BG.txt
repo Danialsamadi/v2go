@@ -1,2 +1,1 @@
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?allowInsecure=0#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20484
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&sni=ger2.fytpn.com&fp=firefox&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20794
+vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@drive.korroh.com:443?security=tls&sni=drive.korroh.com&fp=chrome&type=ws&path=/remote.php/dav/89f7661a0011ce46&host=drive.korroh.com&encryption=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20435

@@ -1,2 +1,0 @@
-vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2082?security=none&type=ws&path=/?ed=2560&host=tianshu.kevqwkt451.workers.dev&packetEncoding=xudp&encryption=none#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20535
-vless://07f9bc85-613f-4a33-8da1-191973c43c0a@104.21.88.201:443?&security=tls&fp=chrome&sni=app-q0zc4t.user-4gfyh5.workers.dev&type=ws&headerType=none&host=app-q0zc4t.user-4gfyh5.workers.dev&path=%2F#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20823
