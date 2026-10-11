@@ -1,1 +1,2 @@
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20410
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?encryption=none&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20796
+vless://79459f96-504a-4e1c-864e-73c16d12f449@mskk2.artemida.digital:12087?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mskk2.artemida.digital&fp=firefox&pbk=xSMOwolkPn3goQGzh7K3BorZ8kvlHxxp9EyEAE3BB1s&sid=5e6ccddff2258650&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20940

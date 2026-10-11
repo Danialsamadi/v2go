@@ -1,0 +1,1 @@
+vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@81.90.21.96:443?encryption=none&security=reality&sni=swe01.deflink.net&fp=random&pbk=gXi4qaomc8uNUNBPlLikwsiJ3yNIphH5nM--81GmD2c&sid=47237b5f7ac0&type=xhttp&path=%2FSweCDN&mode=auto#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%7C%20VLESS%20%7C%2063
