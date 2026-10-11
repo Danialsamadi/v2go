@@ -1,1 +1,0 @@
-vless://54c4bece-fa4f-4ac3-9c19-7c12b379cd0a@fastest.phantom.direct:443?security=reality&type=tcp&sni=www.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=dcc96d50632eb107&pbk=Sh5wKMCzi5dg0zH6Vn6pSl0WPWC1Q4eVluKQRFm-9Rs#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20574
