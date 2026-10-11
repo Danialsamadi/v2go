@@ -1,1 +1,1 @@
-vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@cloud.korroh.com:443?security=tls&sni=cloud.korroh.com&fp=chrome&type=ws&path=%2Fremote.php%2Fdav%2F89f7661a0011ce46&host=cloud.korroh.com&encryption=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20122
+vless://ec6f8131-7a5d-4117-9627-6fb2b39ae0da@cloud.korroh.com:443?encryption=none&type=ws&host=cloud.korroh.com&path=%2Fremote.php%2Fdav%2F89f7661a0011ce46&security=tls&fp=chrome&sni=cloud.korroh.com#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20682
