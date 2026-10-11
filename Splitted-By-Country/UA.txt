@@ -1,0 +1,2 @@
+vless://49e4b91a-bd15-4e54-9b51-41a3380afb51@45.158.185.172:443?security=tls&sni=z5n1.vpnpolar.online&alpn=http%2F1.1&type=ws&host=z5n1.vpnpolar.online&path=%2Fbeeline#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20545
+vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?security=reality&encryption=none&pbk=EDXtIJRcxgBXd32fNHSWcd8GUarM3aZeYf_xDD5gSXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=6a42dc3d#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20VLESS%20%7C%20734
