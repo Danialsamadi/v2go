@@ -1,2 +1,2 @@
-vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsIm5ldCI6InJhdyIsInBvcnQiOiIxMDAwMCIsInBzIjoidjJnbyB8IPCfh7Lwn4e+IE1ZIHwgVk1FU1MgfCAxOSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=/platform103#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20VLESS%20%7C%20343
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTIzNGM2MC1iMDFhLTRkNjctODg5YS1jYWI1OGFiMDA2MWE@mm.good2026.com:11186#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20SS%20%7C%20268
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@155.254.60.222:80?path=/platform106&security=none&encryption=none&host=platform106.halalkhor.info&type=ws#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20VLESS%20%7C%20614
