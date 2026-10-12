@@ -1,2 +1,1 @@
-trojan://123456@162.159.153.42:443?security=tls&sni=now-pages-sub-em4.pages.dev&fp=chrome&alpn=h3&type=ws&host=now-pages-sub-em4.pages.dev&path=%2F%3Fed%3D2560#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20TROJAN%20%7C%20409
-vless://2292dd55-db84-45e3-89bc-9a23fd904b22@185.86.145.78:8443?type=grpc&security=reality&encryption=none&sni=idlecore.me&fp=random&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&headerType=none&mode=gun#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%201208
+vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.16.72.30:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=xstack.mahanfixe.workers.dev#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20911
