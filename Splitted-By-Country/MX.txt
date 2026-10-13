@@ -1,1 +1,0 @@
-trojan://humanity@131.196.254.151:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20TROJAN%20%7C%20415

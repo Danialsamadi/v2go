@@ -1,1 +1,1 @@
-vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@support.zoom.us:80?path=%2F&security=none&encryption=none&host=free.sahanwickramasinghe.me&type=ws#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20649
+vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@support.zoom.us:80?security=none&type=ws&path=%2F&host=free.sahanwickramasinghe.me&encryption=none#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20750

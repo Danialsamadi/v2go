@@ -1,1 +1,1 @@
-vless://5298d5c5-0633-4989-95c8-68ee13cd507e@93.123.39.84:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=content.v1.Feed&allowInsecure=0&sni=ee2x.global-cdn.org#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20640
+vless://43212c32-01f2-4356-b216-67dc1c178262@143.246.41.31:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=h1xVB_-djXL6A7tvnnVbjV4bYKplHOuN0bgmFJQE6AE&sid=7f3a91c2d8e640ab&sni=ees92.shhflow.xyz#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20663
