@@ -1,1 +1,0 @@
-trojan://Telegram_healer_config@104.21.16.123:443?sni=7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV&type=ws&path=/tr/qL8YIeH28wNcXfNTPgLCwOhNFEr?ed=2560&alpn=http/1.1&fp=chrome#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20TROJAN%20%7C%20326
