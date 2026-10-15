@@ -1,0 +1,1 @@
+vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?encryption=none&security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%2099
