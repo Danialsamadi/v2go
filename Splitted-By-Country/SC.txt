@@ -1,1 +1,1 @@
-vless://dc1acdb4-d2a8-42f4-87de-437733f3a9e7@86.54.42.91:420?encryption=none&fp=chrome&pbk=eDBTff9fQM2sXms--xj4iP23ajzOY6mw1gT8YHWXmwA&security=reality&sid=d8a333d6c07033&sni=youtubekids.com&spx=/202cb85b04d8675&support-x25519mlkem768=true&type=tcp#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20311
+trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20322
