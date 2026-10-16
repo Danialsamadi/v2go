@@ -1,1 +1,0 @@
-vless://89f84dc1-39e4-4302-a455-1e4b946883b0@81.90.21.89:8443?mode=gun&security=reality&encryption=none&pbk=ib3Kd2S4Y5q_T9UOnOB9d5YCj8bP36lKy6kE75BZ7DQ&fp=chrome&type=grpc&serviceName=fdd375774aa4&sni=deliberi.fi&sid=6f4e398e3638a914#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%7C%20VLESS%20%7C%20589
