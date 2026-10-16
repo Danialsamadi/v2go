@@ -1,1 +1,0 @@
-vless://2b64baf4-6499-407e-abe8-67c1eb0475f9@153.80.241.175:443?security=reality&encryption=none&pbk=sclCYDXsld3JMvZdFsnSEO2jzcnkOI4bzgCfp8tsBjs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=zasvistelotuning.ru&sid=6b6800e50961701b#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20148
