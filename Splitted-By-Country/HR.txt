@@ -1,1 +1,0 @@
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?authority=%2F%3FTELEGRAM%40MARAMBASHI&encryption=none&fp=chrome&mode=gun&path=%2F&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&security=reality&serviceName=media.v1.ObjectService&sid=1469af2040b7c323&sni=rs2.univesalsrv.com&type=grpc#v2go%20%7C%20%F0%9F%87%AD%F0%9F%87%B7%20HR%20%7C%20VLESS%20%7C%20284
