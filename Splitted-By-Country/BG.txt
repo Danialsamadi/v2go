@@ -1,0 +1,1 @@
+trojan://-VbTw-xqE7XYmEsoZTE7ShJoYLCjdBMQ@ger8.fytpn.com:443?type=tcp&security=tls&sni=ger1.fytpn.com&fp=chrome#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20316
