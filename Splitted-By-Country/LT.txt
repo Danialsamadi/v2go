@@ -1,0 +1,1 @@
+vless://64726966-0000-4000-8000-740000000000@8.6.112.242:443?security=tls&type=ws&sni=parsa-panel-dy55x.railway1385-2a46.workers.dev&path=%2Fdrift%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=parsa-panel-dy55x.railway1385-2a46.workers.dev&fp=firefox#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20617
