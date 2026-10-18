@@ -1,2 +1,2 @@
-vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?security=tls&type=ws&path=%2F&host=free.sahanwickramasinghe.me&sni=free.sahanwickramasinghe.me&fp=firefox#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20664
-vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@free.sahanwickramasinghe.me:80?&security=none&type=ws&headerType=&host=free.sahanwickramasinghe.me&path=%2F#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20742
+vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?security=tls&type=ws&path=%2F&host=free.sahanwickramasinghe.me&sni=free.sahanwickramasinghe.me&fp=firefox#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20627
+vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@free.sahanwickramasinghe.me:80?&security=none&type=ws&headerType=&host=free.sahanwickramasinghe.me&path=%2F#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B0%20LK%20%7C%20VLESS%20%7C%20652
