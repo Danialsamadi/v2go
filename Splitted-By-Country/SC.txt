@@ -1,3 +1,0 @@
-trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20502
-trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20504
-vless://3e4c67dd-eeaa-48ad-8066-0dca798cccb3@156.239.13.161:51443?flow=xtls-rprx-vision&fp=chrome&pbk=WpfLIDfNGu5tmsHEa_mrZAgTDwPYD_9TK2zagNx3kgk&security=reality&sid=aa5b653590725505&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20561
