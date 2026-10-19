@@ -1,1 +1,1 @@
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%20191
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0&sni=wstg.datasynctrue.online#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%20268
