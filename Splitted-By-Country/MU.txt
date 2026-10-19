@@ -1,1 +1,1 @@
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@45.194.66.191:443?type=tcp&security=reality&sni=pl.golangwikito.cfd&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&sid=acccaaaa9f72147d&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20VLESS%20%7C%20142
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@45.194.66.191:443?type=tcp&security=reality&sni=pl.golangwikito.cfd&fp=firefox&pbk=DsTVLCehsKvfFGtNZU5leKOLTlEp28qeifHYtRKOFwg&sid=acccaaaa9f72147d&flow=xtls-rprx-vision#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20VLESS%20%7C%20197

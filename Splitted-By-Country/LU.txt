@@ -1,1 +1,1 @@
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%2076
+vless://38d97d6f-b640-4eb0-9891-bbaf2061d6db@191.44.47.164:25565?security=reality&encryption=none&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kookas.fi&sid=43dcff53849b81e6#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%2072
