@@ -1,2 +1,2 @@
-trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20245
-trojan://humanity@94.158.219.126:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20328
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20167
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=android#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20423
