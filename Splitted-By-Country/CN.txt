@@ -1,1 +1,0 @@
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?encryption=none&security=tls&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws&sni=vpn.cintaku.qzz.io&alpn=http%2F1.1&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20419

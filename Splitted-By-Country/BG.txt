@@ -1,1 +1,0 @@
-vless://07104d25-afc5-4b3b-a871-c729c57de047@94.26.41.225:443?security=reality&encryption=none&pbk=Abp__UEbRjj_fRvYa_u-B-I8XoHVUkGmc1ofMBMqHT4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=qq.remnahoysry.ru#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20126

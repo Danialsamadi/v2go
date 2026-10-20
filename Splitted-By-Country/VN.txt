@@ -1,1 +1,1 @@
-vless://1d0e8e53-6999-4752-ac21-c0c54ff5bc09@172.67.168.158:2087?&security=tls&fp=chrome&sni=vn11vina.210z.dev&type=ws&headerType=none&host=vn11vina.210z.dev&path=%2Fvlessvina#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20VLESS%20%7C%20391
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=raw&security=none&encryption=none&headerType=none#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20VLESS%20%7C%20505
