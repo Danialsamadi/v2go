@@ -1,1 +1,0 @@
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top&alpn=http%2F1.1&fp=chrome#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20451
