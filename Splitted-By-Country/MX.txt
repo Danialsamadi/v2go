@@ -1,1 +1,0 @@
-trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20TROJAN%20%7C%2094
