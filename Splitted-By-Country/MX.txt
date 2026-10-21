@@ -1,0 +1,2 @@
+vmess://eyJhZGQiOiIxMzEuMTk2LjI1Mi41OSIsImFpZCI6IjAiLCJpZCI6IjU4MDk5MTFhLWExNmUtNDNkMy05MGIwLTJjOTRjZmMyMDM1ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MjEiLCJwcyI6InYyZ28gfCDwn4ey8J+HvSBNWCB8IFZNRVNTIHwgMTM2Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20TROJAN%20%7C%20419
