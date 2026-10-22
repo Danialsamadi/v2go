@@ -1,1 +1,2 @@
-vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20120
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?encryption=none&path=%2Fvless&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20173
+vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@media.vik.lalibobi.online:443/?type=ws&encryption=none&flow=&host=media.vik.lalibobi.online&path=%2Flive%2Fshowroom&security=tls&sni=media.vik.lalibobi.online&alpn=http%2F1.1&fp=firefox#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20430
