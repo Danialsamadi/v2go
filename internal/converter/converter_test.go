@@ -77,6 +77,92 @@ func TestConvertLinkRejectsGarbage(t *testing.T) {
 	}
 }
 
+// SIP002 userinfo is percent-encoded per RFC 3986 path rules, where '+' is a
+// legal literal character. Decoding the plaintext fallback with
+// url.QueryUnescape instead applies form-urlencoded semantics and rewrites
+// every '+' into a space, so a password like "my+secret" silently becomes
+// "my secret" and the generated config fails authentication downstream with
+// no parse error pointing at the cause.
+func TestSSPlaintextUserinfoKeepsPlus(t *testing.T) {
+	cases := []struct {
+		name       string
+		link       string
+		wantMethod string
+		want       string
+		loadXray   bool // no real cipher name contains '+', so xray only loads the rest
+	}{
+		{
+			// the shape from the wild: '+' must survive the plaintext path
+			name:       "plus in password",
+			link:       "ss://aes-256-gcm:my+secret@1.2.3.4:8388#node",
+			wantMethod: "aes-256-gcm",
+			want:       "my+secret",
+			loadXray:   true,
+		},
+		{
+			// percent-encoded '+' decodes to the same literal '+'
+			name:       "percent-encoded plus",
+			link:       "ss://aes-256-gcm:my%2Bsecret@1.2.3.4:8388#node",
+			wantMethod: "aes-256-gcm",
+			want:       "my+secret",
+			loadXray:   true,
+		},
+		{
+			// '+' in the method portion is a literal too; no real cipher
+			// name contains '+', so this case only pins the parse
+			name:       "plus in method",
+			link:       "ss://2022-blake3-aes+128:secret@1.2.3.4:8388#node",
+			wantMethod: "2022-blake3-aes+128",
+			want:       "secret",
+		},
+		{
+			// base64 userinfo keeps working (regression guard for the
+			// other branch of the same if)
+			name:       "base64 userinfo",
+			link:       "ss://YWVzLTI1Ni1nY206bXkrc2VjcmV0@1.2.3.4:8388#node",
+			wantMethod: "aes-256-gcm",
+			want:       "my+secret",
+			loadXray:   true,
+		},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			ob, err := ConvertLink(tc.link)
+			if err != nil {
+				t.Fatalf("ConvertLink: %v", err)
+			}
+			servers, ok := ob["settings"].(M)["servers"].([]M)
+			if !ok || len(servers) != 1 {
+				t.Fatalf("unexpected settings: %#v", ob["settings"])
+			}
+			if got := servers[0]["method"]; got != tc.wantMethod {
+				t.Fatalf("method = %q, want %q", got, tc.wantMethod)
+			}
+			if got := servers[0]["password"]; got != tc.want {
+				t.Fatalf("password = %q, want %q", got, tc.want)
+			}
+
+			if tc.loadXray {
+				full := M{
+					"log": M{"loglevel": "none"},
+					"outbounds": []M{
+						ob,
+						{"protocol": "freedom", "tag": "direct"},
+					},
+				}
+				raw, err := json.Marshal(full)
+				if err != nil {
+					t.Fatalf("marshal: %v", err)
+				}
+				if _, err := xserial.LoadJSONConfig(bytes.NewReader(raw)); err != nil {
+					t.Fatalf("xray rejected the generated config: %v\n%s", err, raw)
+				}
+			}
+		})
+	}
+}
+
 // Xray's XHTTP transport builds a request URL from the config's host (falling
 // back to the SNI) and ignores the error from http.NewRequest. A value that
 // url.Parse rejects therefore crashes the entire process with a nil
