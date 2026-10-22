@@ -1,1 +1,1 @@
-vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20174
+vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?&sni=5.178.109.174&type=ws&headerType=none&host=5.178.109.174&path=%2Fvless#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20VLESS%20%7C%20282

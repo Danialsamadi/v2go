@@ -1,3 +1,2 @@
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20112
-trojan://humanity@94.158.219.126:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20344
-vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lite.3apes.online:443?security=reality&encryption=none&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lite.3apes.online#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20379
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?security=tls&sni=lv1.dedushka.top#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20128
+trojan://humanity@94.158.219.126:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20TROJAN%20%7C%20364
