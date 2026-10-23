@@ -1,1 +1,0 @@
-vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20302
