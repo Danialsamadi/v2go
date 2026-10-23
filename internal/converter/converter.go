@@ -238,7 +238,10 @@ func parseSS(link string) (M, error) {
 		if b, decErr := b64DecodeSafe(userinfoPart); decErr == nil {
 			userinfo = string(b)
 		} else {
-			userinfo, err = url.QueryUnescape(userinfoPart)
+			// SIP002 encodes the plaintext userinfo as a URI path segment
+			// (RFC 3986), where '+' is a literal; QueryUnescape would apply
+			// form-urlencoded semantics and rewrite it into a space.
+			userinfo, err = url.PathUnescape(userinfoPart)
 			if err != nil {
 				return nil, fmt.Errorf("invalid userinfo")
 			}
