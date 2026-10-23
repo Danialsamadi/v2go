@@ -1,0 +1,1 @@
+vless://7K8ckQ9Odjv5ya@185.138.89.162:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.heise.de&fp=chrome&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&sid=8a2a4eb0&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%B5%F0%9F%87%B9%20PT%20%7C%20VLESS%20%7C%20336
