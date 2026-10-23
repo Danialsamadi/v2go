@@ -1,6 +1,1 @@
-vless://789acc45-af2f-428b-9f06-8ff5447d00be@ilya.itissia.shop:443?security=&encryption=none&headerType=&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20369
-vless://c7bcfab5-cba5-490d-9d05-1a9f87e9059f@ilya.itissia.shop:443?type=tcp&encryption=none&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20387
-vless://5fd4b8e0-41c7-4ac5-ac6c-0fc6f7a0d27a@ilya.itissia.shop:443?type=tcp&encryption=none&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20406
-vless://e434ba6a-01d5-4910-848a-bddcee612c33@ilya.itissia.shop:443?type=tcp&encryption=none&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20415
-vless://e49547db-df7b-4a00-8a4d-0f92524805f7@ilya.itissia.shop:443?type=tcp&encryption=none&security=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20469
-vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?encryption=none&fp=&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&security=reality&sid=ce1dc482&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20532
+vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B1%20IL%20%7C%20VLESS%20%7C%20302
