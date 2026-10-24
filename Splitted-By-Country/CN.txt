@@ -1,2 +1,0 @@
-vless://9e6836f1-846e-4617-ab08-579141d612e6@223.254.131.145:443?security=reality&encryption=none&pbk=2IIpJJfhPvtjCi3EJEOm_kkcmfzNExbM8Tl0QZWsGzo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=cp.cloudflare.com&sid=a3b454e8#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20359
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@188.114.98.0:443?path=/vlessws&security=tls&encryption=none&insecure=0&host=vpn.cintaku.qzz.io&type=ws&allowInsecure=0&sni=vpn.cintaku.qzz.io#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20381

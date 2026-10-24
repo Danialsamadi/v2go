@@ -1,6 +1,0 @@
-#profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMiDwn5Sl
-#profile-update-interval: 1
-#support-url: https://github.com/Danialsamadi/v2go
-#profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=/fp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#v2go%20%7C%20VLESS%20%7C%202
-trojan://humanity@8.47.69.0:443?security=tls&type=ws&sni=www.pleadcourt.org&path=/assignment&host=www.pleadcourt.org#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TROJAN%20%7C%201
