@@ -1,0 +1,1 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.30:8880?path=%2F%3Fed&security=none&encryption=none&host=vms.lifetime11.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%AD%20MH%20%7C%20VLESS%20%7C%2085
