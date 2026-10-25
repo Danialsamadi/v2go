@@ -1,1 +1,0 @@
-vless://73796e63-0000-4000-8000-000000000008@vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev:2095?type=ws&security=none&encryption=none&path=%2Fsync&host=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&sni=vqrlof-pwa5a7-onfjlv.zedbazi061.workers.dev&headerType=none#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AA%20BE%20%7C%20VLESS%20%7C%20528

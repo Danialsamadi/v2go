@@ -1,1 +1,0 @@
-vless://32daf25d-9ffa-4f43-b6a3-2ebc21014681@45.12.63.81:443?security=reality&encryption=none&pbk=MN2XIVlIusdWaGwyyrGZ7Ti3jzqjDlpMmc12WcrV1nU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.vk.ru#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%B0%20DK%20%7C%20VLESS%20%7C%20261

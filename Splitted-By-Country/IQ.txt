@@ -1,1 +1,1 @@
-vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@46.243.142.104:443?type=ws&security=tls&encryption=none&path=%2Fmedia%2Fstream%2FqUWu2oaFgxAw&host=santehdv.site&sni=santehdv.site&fp=firefox&alpn=http%2F1.1&headerType=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%7C%20VLESS%20%7C%20529
+vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@46.243.142.104:443?type=ws&security=tls&encryption=none&path=%2Fmedia%2Fstream%2FqUWu2oaFgxAw&host=santehdv.site&sni=santehdv.site&headerType=none#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%7C%20VLESS%20%7C%20448
