@@ -1,0 +1,1 @@
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%2089

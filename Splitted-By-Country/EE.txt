@@ -1,0 +1,1 @@
+vless://a9e5d7ed-ce1a-48eb-9767-4de54fcfaba7@est.luxes.network:8443?encryption=none&security=tls&sni=est.luxes.network&fp=chrome&alpn=http/1.1&type=ws&path=/assets#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20VLESS%20%7C%20329
