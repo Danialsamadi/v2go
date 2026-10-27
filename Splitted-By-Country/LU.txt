@@ -1,1 +1,1 @@
-vless://4970c1cd-13e1-498a-920a-61d07be2fa65@107.189.7.176:32752?type=raw&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=pfFcQxKv4EPhCDUoZMCmTjj4FK7HHQg_me-In3bOejA&sid=d758a643034ad90e&headerType=none#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%20517
+vless://4970c1cd-13e1-498a-920a-61d07be2fa65@107.189.7.176:32752?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=pfFcQxKv4EPhCDUoZMCmTjj4FK7HHQg_me-In3bOejA&sid=d758a643034ad90e&headerType=none#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%20466
