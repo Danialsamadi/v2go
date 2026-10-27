@@ -1,1 +1,0 @@
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B9%20AT%20%7C%20VLESS%20%7C%20329
