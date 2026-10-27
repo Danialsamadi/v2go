@@ -1,0 +1,1 @@
+vless://362a0364-2b0f-cd11-9c20-ab9dfbeb8b11@122.8.45.7:8443?mode=gun&security=reality&encryption=none&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20VLESS%20%7C%20534
