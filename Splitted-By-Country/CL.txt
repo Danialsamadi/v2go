@@ -1,1 +1,0 @@
-vless://99fa1d27-b252-4cba-b04d-50c3d0873700@hk013.zestapp778.com:59746?type=tcp&security=tls&fp=chrome&sni=hk013.zestapp778.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20VLESS%20%7C%20406
