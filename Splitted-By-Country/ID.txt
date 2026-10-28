@@ -1,0 +1,1 @@
+vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20ID%20%7C%20VLESS%20%7C%20176

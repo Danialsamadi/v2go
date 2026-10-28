@@ -1,1 +1,1 @@
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@91.196.163.150:8443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%2098
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@213.111.177.107:443?encryption=none&security=tls&sni=vlso5.1d.mom&fp=chrome&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20608
