@@ -1,2 +1,1 @@
-trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20TROJAN%20%7C%20317
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20TROJAN%20%7C%20424
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BD%20MX%20%7C%20TROJAN%20%7C%20204
