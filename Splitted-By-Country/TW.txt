@@ -1,1 +1,1 @@
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?&security=tls&fp=chrome&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=/nvl-n04-ws/e0577fe8fd7c8823#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20VLESS%20%7C%20269
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?security=tls&fp=chrome&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20VLESS%20%7C%2091
