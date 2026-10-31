@@ -1,1 +1,1 @@
-vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@tau1.freerunet.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=tau1.freerunet.online&fp=chrome&flow=xtls-rprx-vision&sid=4a7b1c8d&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&encryption=none#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20290
+vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.derevohom.xyz#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20126
