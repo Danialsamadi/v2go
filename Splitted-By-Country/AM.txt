@@ -1,0 +1,1 @@
+vless://ca14493b-b984-4ffb-bc0e-9cb5da969e15@tau1.freerunet.online:443?security=reality&encryption=none&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tau1.freerunet.online&sid=4a7b1c8d#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20466
