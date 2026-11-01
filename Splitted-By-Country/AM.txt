@@ -1,1 +1,2 @@
-vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.derevohom.xyz#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20153
+vless://e3aa3d22-a95e-407b-aacc-d855b90a5d70@179.253.179.109:63053?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.derevohom.xyz#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20238
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@77.91.68.117:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20591
