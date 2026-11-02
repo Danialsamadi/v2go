@@ -1,1 +1,2 @@
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20493
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@fguuouj849.gadawebi.ir:5072?#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20SS%20%7C%20386
+vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20508

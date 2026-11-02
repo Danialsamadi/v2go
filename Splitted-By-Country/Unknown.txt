@@ -1,2 +1,4 @@
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#v2go%20%7C%20VLESS%20%7C%2061
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#v2go%20%7C%20VLESS%20%7C%20125
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#v2go%20%7C%20VLESS%20%7C%202
+vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#v2go%20%7C%20VLESS%20%7C%2043
+vmess://eyJhZGQiOiIxNzIuNjcuMjIxLjc3IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJpZCI6IjgzYjA5YTY0LTFlYWYtNGM0ZC04OWVkLTg2NmQ0YjZiODExNSIsIm5ldCI6IndzIiwicGF0aCI6Ii90cnV0aCIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCBWTUVTUyB8IDI0NyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://a1962f23-f8f8-412d-f2ce-3361e7b72889@169.128.83.4:57259?security=none&type=tcp&packetEncoding=xudp#v2go%20%7C%20VLESS%20%7C%20462
