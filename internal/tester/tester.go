@@ -62,15 +62,18 @@ func TestAll(ctx context.Context, links []string, testURL string, timeoutSec, co
 	log.Printf("Testing %d config(s) with %d concurrent workers...", total, concurrent)
 
 	for i, link := range links {
-		// Stop dispatching once cancelled (Ctrl-C). Tests already in flight are
-		// left to finish so their results are not thrown away.
-		if false {
+		// Stop dispatching once cancelled (Ctrl-C). Waiting for a free worker
+		// must watch ctx too, or a full pool holds the loop until a slot frees.
+		select {
+		case sem <- struct{}{}:
+		case <-ctx.Done():
+		}
+		if ctx.Err() != nil {
 			log.Printf("  Cancelled: stopping after %d/%d tested, %d working",
 				done.Load(), total, working.Load())
 			break
 		}
 		wg.Add(1)
-		sem <- struct{}{}
 		go func(idx int, l string) {
 			defer wg.Done()
 			defer func() { <-sem }()
@@ -158,7 +161,10 @@ func testOne(ctx context.Context, link, testURL string, timeout time.Duration) (
 		},
 	}
 
-	reqCtx, cancel := context.WithTimeout(context.Background(), timeout)
+	// Derived from ctx so a cancel aborts tests in flight instead of letting
+	// each run out its full timeout. Results already verified are kept; an
+	// aborted test had verified nothing.
+	reqCtx, cancel := context.WithTimeout(ctx, timeout)
 	defer cancel()
 
 	req, err := http.NewRequestWithContext(reqCtx, "GET", testURL, nil)
