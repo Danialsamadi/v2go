@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *"  # Every 1 hour
+    - cron: "0 */8 * * *"  # Every 8 hours (00:00, 08:00, 16:00 UTC)
   workflow_dispatch:  # Allow manual trigger
 
 # The live test makes a run take minutes, not seconds, so runs must not stack.
