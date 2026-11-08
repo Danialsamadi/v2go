@@ -1,3 +1,4 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20TROJAN%20%7C%20297
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20SS%20%7C%20642
-trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&sni=au001.zestapp778.com&fp=chrome#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20TROJAN%20%7C%20769
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20TROJAN%20%7C%20271
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20SS%20%7C%20352
+vless://2e70d9ae-7906-4e34-a6f9-187987823e0b@j2.fllow.ir:25456?authority=&encryption=none&fp=chrome&pbk=2_l_AeThgEkkPEN4_jQm83_oGgx_e9nsvYc2VHXk93w&security=reality&serviceName=aparat-stream&sid=3e69a3a1c5&sni=r.msftstatic.com&spx=%2Fa0fd1806f4f1efe&support-x25519mlkem768=true&type=grpc#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%20571
+vless://d031228f-7065-4a4e-8999-b7faf8c302c8@170.114.52.22:443?type=ws&security=tls&encryption=none&path=%2F&host=info.shalanax.com&sni=info.shalanax.com&fp=firefox&headerType=none#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20AU%20%7C%20VLESS%20%7C%20599
