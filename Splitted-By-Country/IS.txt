@@ -1,1 +1,1 @@
-vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%20442
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%20277
