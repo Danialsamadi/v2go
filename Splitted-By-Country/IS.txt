@@ -1,1 +1,2 @@
-vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&type=tcp&sni=google.com&fp=chrome&sid=06&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%20277
+vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?&security=tls&fp=firefox&sni=orbylume.my.to&type=ws&headerType=none&host=orbylume.my.to&path=%2Ftvpn-tor%2Fis#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%2054
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?security=reality&encryption=none&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=06#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B8%20IS%20%7C%20VLESS%20%7C%20113
