@@ -1,0 +1,1 @@
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?security=tls&sni=orbylume.my.to&type=ws&path=/tvpn-trojan/bg&Host=orbylume.my.to#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20587

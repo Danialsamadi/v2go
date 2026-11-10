@@ -1,1 +1,1 @@
-vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%2028
+vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&security=none&type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BE%20CY%20%7C%20VLESS%20%7C%20124
