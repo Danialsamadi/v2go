@@ -1,1 +1,1 @@
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?security=tls&sni=orbylume.my.to&type=ws&path=/tvpn-trojan/bg&Host=orbylume.my.to#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20TROJAN%20%7C%20626
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20228
