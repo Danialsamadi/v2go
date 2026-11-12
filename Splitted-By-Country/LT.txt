@@ -1,2 +1,0 @@
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20122
-vless://3f25b15b-1777-4c08-9ade-60336ac92a82@84.32.209.103:443?encryption=none&fp=chrome&mode=multi&security=tls&serviceName=grpc&sni=edge-lt.lindenpixel.com&type=grpc#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20VLESS%20%7C%20160

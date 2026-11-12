@@ -1,0 +1,2 @@
+vless://11512726-b692-406f-ab49-7b28f44a8294@80.96.108.29:8443?mode=auto&path=/ae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=chrome&type=xhttp&sni=md.gorobsub.com#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%20290
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20SS%20%7C%20302
