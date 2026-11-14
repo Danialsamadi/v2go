@@ -1,1 +1,0 @@
-vless://1d46250c-f015-439d-a7fd-c4d9e2a4c63d@88.80.150.15:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=bg2.oncloudvpn.com&insecure=0&fp=chrome&type=grpc&serviceName=grpc&allowInsecure=0&sni=bg2.oncloudvpn.com#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%AC%20BG%20%7C%20VLESS%20%7C%20136
