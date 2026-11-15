@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@185.22.153.117:18443#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20SS%20%7C%20197
-vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=vlgrpc#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20309
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:14430?path=/vless&security=none&sni=45.138.100.248&type=ws#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20357
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WmlQcnI0ODRPZFNZY2l2RFV2K1VJeWd3dnlXK0hRWXl0S3NJZ1R3OXRVPQ==@130.49.189.158:43558#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20SS%20%7C%20246
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10443?fp=chrome&security=none&sni=45.138.100.248&type=tcp#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%20551
