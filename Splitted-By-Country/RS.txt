@@ -1,1 +1,1 @@
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?sni=rs.nebulaguard.org#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20RS%20%7C%20TROJAN%20%7C%20402
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&sni=rs.nebulaguard.org&alpn=h2,http/1.1&fp=chrome#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B8%20RS%20%7C%20TROJAN%20%7C%20474
