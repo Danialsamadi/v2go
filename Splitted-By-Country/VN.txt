@@ -1,1 +1,2 @@
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20VLESS%20%7C%20394
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20VLESS%20%7C%20499
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@Kir3.crackerbinam.org:56026?sni=www.cloudflare.com&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&type=tcp&spx=/&fp=chrome&sid=99676967e6867063&security=reality&encryption=none&headerType=none#v2go%20%7C%20%F0%9F%87%BB%F0%9F%87%B3%20VN%20%7C%20VLESS%20%7C%20540

@@ -1,0 +1,2 @@
+vmess://eyJhZGQiOiI0Ny4yNTAuMTM1LjI0NCIsImFpZCI6IjAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsIm5ldCI6InJhdyIsInBvcnQiOiIxMDAwMCIsInBzIjoidjJnbyB8IPCfh7Lwn4e+IE1ZIHwgVk1FU1MgfCAyMTMiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://d801d4d9-111a-46e8-91fc-e2fb39ef2d22@382218.xyz:443?&security=tls&fp=chrome&sni=382218.xyz&type=ws&headerType=none&host=382218.xyz&path=%2Fws#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BE%20MY%20%7C%20VLESS%20%7C%20520
