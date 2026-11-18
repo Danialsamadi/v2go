@@ -1,1 +1,1 @@
-vless://04cbe9ea-9791-4195-827f-5d4cabbdba10@95.163.153.141:8443?path=%2F&security=reality&encryption=none&pbk=bRtDyXYrSK7YP6zKZGTUIVfNlpilQViJ4ih_43oSWnU&fp=firefox&type=xhttp&sni=www.cloudflare.com&sid=c9ea2355ddeab39b#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20277
+vless://04cbe9ea-9791-4195-827f-5d4cabbdba10@95.163.153.141:8443?path=%2F&security=reality&encryption=none&pbk=bRtDyXYrSK7YP6zKZGTUIVfNlpilQViJ4ih_43oSWnU&fp=firefox&type=xhttp&sni=www.cloudflare.com&sid=c9ea2355ddeab39b#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20AM%20%7C%20VLESS%20%7C%20237
