@@ -1,3 +1,2 @@
-trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%2045
-vmess://eyJhZGQiOiJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDM0IiwicHMiOiJ2MmdvIHwg8J+HufCfh7wgVFcgfCBWTUVTUyB8IDgzIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDM2IiwicHMiOiJ2MmdvIHwg8J+HufCfh7wgVFcgfCBWTUVTUyB8IDg0Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://b59bcb5b-5150-4c6b-9227-681886197014@85.237.207.221:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=lJz7AGWUC-ZTEIJaU5y1GRrROWJ9J_VzQRyrYPmOygs&sid=fd2fa5e06670120b#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20VLESS%20%7C%20300
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%20535
