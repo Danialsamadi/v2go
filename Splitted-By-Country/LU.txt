@@ -1,2 +1,0 @@
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20VLESS%20%7C%2020
-trojan://4mq9w5ckqw3ewbdg@staticxfastline.taymaztest.ir:16200?path=/biyasd&security=tls&alpn=http/1.1&insecure=0&host=staticxfastline.taymaztest.ir&fp=chrome&type=ws&allowInsecure=0&sni=staticxfastline.taymaztest.ir#v2go%20%7C%20%F0%9F%87%B1%F0%9F%87%BA%20LU%20%7C%20TROJAN%20%7C%20243
