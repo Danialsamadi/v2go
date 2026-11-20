@@ -1,2 +1,0 @@
-vless://4f9f03f9-39e9-4879-8f10-0eccf859aafd@gold.jafarghasemiturkk.ir:8080?encryption=mlkem768x25519plus.native.0rtt.EITKrLrLFdNlWVc2lGL0531SnyJBnQ7NwAOFsSxdY0w&flow=xtls-rprx-vision&host=&path=/&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%20159
-vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&encryption=none&headerType=none&type=tcp#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%20185
