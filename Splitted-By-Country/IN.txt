@@ -1,1 +1,1 @@
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?encryption=none&fp=&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%2079
+vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?encryption=none&fp=&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&security=reality&sid=6bdc8320&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B3%20IN%20%7C%20VLESS%20%7C%20276

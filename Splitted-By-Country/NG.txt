@@ -1,4 +1,2 @@
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-01.catcat321.com:20103?security=tls&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20359
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20051?security=tls&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20365
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@157.254.38.210:20051?sni=hk.catxstar.com&allowInsecure=0#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20382
-trojan://d9064589-74af-432a-9390-5d8a9da281bf@sclass-c2.catcat321.com:20051?allowInsecure=0&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20449
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@157.254.38.210:20103?security=tls&insecure=0&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20422
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-00.catcat321.com:20103?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20488
