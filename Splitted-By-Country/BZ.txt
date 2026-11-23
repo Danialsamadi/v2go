@@ -1,1 +1,0 @@
-vless://48cfe81c-3f0b-457f-b740-fbbfc6f679aa@45.135.235.255:443?security=tls&type=ws&path=%2F&host=worker3.jegakey970.workers.dev&packetEncoding=xudp&sni=worker3.jegakey970.workers.dev&fp=firefox#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BF%20BZ%20%7C%20VLESS%20%7C%20232
