@@ -1,1 +1,0 @@
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20051?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%AC%20NG%20%7C%20TROJAN%20%7C%20462

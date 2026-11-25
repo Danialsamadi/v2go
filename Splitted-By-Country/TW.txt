@@ -1,2 +1,2 @@
-trojan://123456@34.80.15.95:443?sni=tw.ctt25.uk&type=tcp&fp=chrome#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%20299
-vless://530d31fc-2690-49e4-bfc9-3f991e145008@116.213.43.43:11102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=oW6HMjniDmBJdjGKwhBAIS2zMS1VvHORubh9vdazqQ0&sid=ed571d022f7bc3bf&packetEncoding=xudp#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20VLESS%20%7C%20304
+vmess://eyJhZGQiOiJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDM0IiwicHMiOiJ2MmdvIHwg8J+HufCfh7wgVFcgfCBWTUVTUyB8IDQ1OSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://123456@34.80.15.95:443?type=tcp&security=tls&fp=chrome&sni=tw.ctt25.uk#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20TROJAN%20%7C%20662
