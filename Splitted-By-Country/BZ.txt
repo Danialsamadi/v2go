@@ -1,2 +1,0 @@
-vless://0b7337bf-dcff-432b-9ec6-b4fb6d22fc92@45.135.235.255:443?encryption=none&fp=chrome&host=worker3.fivon81984.workers.dev&path=/&security=tls&sni=worker3.fivon81984.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BF%20BZ%20%7C%20VLESS%20%7C%20170
-vless://4dd8d557-dbe3-4c6f-a3ee-168da9a03d1b@45.135.235.255:443?encryption=none&fp=firefox&host=worker3.paneger955.workers.dev&path=%2F&security=tls&sni=worker3.paneger955.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%BF%20BZ%20%7C%20VLESS%20%7C%20648
