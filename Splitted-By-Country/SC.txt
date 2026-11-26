@@ -1,2 +1,0 @@
-vless://b54d0b75-0f78-4251-a9bf-1bd559531184@154.197.64.252:443?fp=firefox&host=worker3.xerogo7967.workers.dev&path=%2FJVfQVSkS4J96MY2Y&security=tls&sni=worker3.xerogo7967.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20482
-vless://20b436fc-2c54-4248-b70d-14b8d6916d41@154.197.64.252:443?encryption=none&fp=chrome&host=worker3.harijo3330.workers.dev&path=/HGCmKaXbRNqpZqMv&security=tls&sni=worker3.harijo3330.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20VLESS%20%7C%20484
