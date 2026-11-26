@@ -1,2 +1,1 @@
-vless://73287568-abd1-46d5-bf66-8203af317379@172.235.237.9:58887?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&security=reality&sid=1f2519bb96e5589c&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20371
-vless://29f178f7-f96f-46ba-8fc0-bbcd690ba788@82.118.16.189:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zmo2VkZkfjh2kWjaRghXUs39ImQo87LmPhjvzbX3yB4&security=reality&sid=1e9a49dd374c1191&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20VLESS%20%7C%20408
+ss://YWVzLTEyOC1nY206ODUzMGJkOTRlOWRhZmVlZGIwZmY3MmJjNjQwNTMzMGU=@95.141.37.29:18173#v2go%20%7C%20%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20SS%20%7C%20331
