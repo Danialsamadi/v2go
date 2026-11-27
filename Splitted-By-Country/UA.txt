@@ -1,0 +1,2 @@
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@bitter-math-4364.vpnetwork3567.workers.dev:443?type=ws&security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&host=bitter-math-4364.vpnetwork3567.workers.dev&path=%2F#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20TROJAN%20%7C%20527
+trojan://963A4918-A630-29DA-A873-093CDF8AD784@172.67.199.12:443?security=tls&sni=bitter-math-4364.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&path=%2F&host=bitter-math-4364.vpnetwork3567.workers.dev#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%A6%20UA%20%7C%20TROJAN%20%7C%20551
